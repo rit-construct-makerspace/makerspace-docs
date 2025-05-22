@@ -1,0 +1,59 @@
+site_name: SHED Makerspace Documentation
+theme:
+  logo: https://raw.githubusercontent.com/rit-construct-makerspace/access-control-documentation/refs/heads/main/docs/assets/RIT_hor.svg
+  favicon: assets/tiger-icon.svg
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Toggle Dark Mode
+    - scheme: slate
+      primary: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Toggle Light Mode
+  features:
+    - navigation_footer
+    - navigation.tracking
+    - navigation.tabs
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - toc:
+      permalink: "#"
+      title: "On This Page:"
+
+
+copyright: RIT SHED Makerspace
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  annotate:
+    json: [.s2]
+  social:
+    - icon: fontawesome/brands/slack
+      link: https://rit-makerspace.slack.com/
+    - icon: material/email-edit
+      link: mailto:make@rit.edu
+    - icon: material/web
+      link: https://make.rit.edu
