@@ -10,6 +10,8 @@ The Weller 1010 soldering iron is intended for connecting electrical components 
 
 While soldering as a technique can be used for other applications (like jewelry or structural assembly), the soldering irons in the SHED makerspace are intended solely for electronics work. 
 
+[Weller 1010 Manual](https://www.weller-tools.com/sites/default/files/products/documents/WEL_WE1_Manual_T0055745804_web.pdf){:target="_blank" .md-button}
+
 ### Prerequisites for Use
 * [SHED Soldering Training](https://make.rit.edu/app/maker/training/27)
 * [In-Person Competency Check](#in-person-competency-check)
@@ -109,12 +111,6 @@ The iron will maintain the temperature it was last set to, so always make sure y
 
 <p class = "clear-float"></p>
 
-## In-Person Competency Check
-
-To demonstrate competency with the soldering iron, you will be given the parts to construct a RITchie Tiger Soldering Badge! Reference the instructions below. Once you complete your soldering, show a member of staff that it works to get your approval. The badge is yours to keep once complete! 
-
-![Image](./assets/Tiger%20Badge%20Display.jpg)
-
 ## Learn More
 
 Click on one of the following to expand it and view contents
@@ -128,3 +124,12 @@ Click on one of the following to expand it and view contents
 ??? info "HackMakeMod Soldering for Beginners"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3jAw41LRBxU?si=hBPv3dFO9xUCvagi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## In-Person Competency Check
+
+To demonstrate competency with the soldering iron, you will be given the parts to construct a RITchie Tiger Soldering Badge! Reference the instructions below. Once you complete your soldering, show a member of staff that it works to get your approval. The badge is yours to keep once complete! 
+
+Required to Demonstrate:
+* Solder joints are fully formed and electrically sound
+* Maker did not burn themselves, the table, or their parts/board
+
+![Image](./assets/Tiger%20Badge%20Display.jpg)
