@@ -15,6 +15,8 @@ The cable can be adjusted to drill holes in parts up to 40 inches tall.
 
 <p class = "clear-float"></p>
 
+## Safety Notices
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 

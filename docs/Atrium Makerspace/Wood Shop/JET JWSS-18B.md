@@ -15,6 +15,8 @@ The scroll saw is operated via foot pedal to control speed of the blade.
 
 <p class = "clear-float"></p>
 
+## Safety Notices
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 
@@ -47,6 +49,47 @@ The scroll saw is operated via foot pedal to control speed of the blade.
     Do not cut PVC or other fragile plastic.
 
     <p class = "clear-float"></p>
+
+## Installing a Blade
+<img src="..\assets\scroll_saw\blade_install_1.png" class="image-float-right" width=40%>
+
+1. Turn off saw.
+2. Insert lower blade holder into hole in side panel
+for leverage, and loosen knob. See Figure 9-2.
+3. Slide blade into holder deep enough to gain
+sufficient clamping, but not all the way which
+can result in blade being too short for sufficient
+gripping by upper guide. Make sure blade teeth
+point down, toward the blade holder. Tighten
+blade holder knob.
+
+!!! note
+    If the blade holder set screw is backed out, turn it in with a 3mm hex wrench until it touches the tip of the knob when knob is tightened down. You may need to stabilize the blade holder with a 10mm wrench on the flats while doing this. Figure 9-2: Installing blade into holder
+
+4. Flip tension lever (D, Figure 9-3) upward to
+release guide.
+
+<img src="..\assets\scroll_saw\blade_install_2.png" class="image-float-right" width=40%>
+
+5. Guide blade up through table slot and push
+blade holder into lower blade chuck (E).
+6. Push top end of blade into upper guide (F),
+making sure it rests between the contact points
+of guide set screws, and against the back stop.
+7. Push down tension lever (D) to clamp blade. Do
+not over-tension blade; this can result in blade
+breakage or premature wear to clamping
+surfaces.
+8. Check that blade teeth point forward and down
+toward table.
+Figure 9-3: installing blade into guides
+13
+9. Try moving blade by hand to make sure it is
+secure. Pluck the blade with your finger, as you
+would a guitar string – it should emit a clear note
+if properly tensioned. 
+
+<p class = "clear-float"></p>
 
 ## Arm Tilt Adjustment
 <img src="..\assets\scroll_saw\arm_tilt.png" class="image-float-right" width=50%>

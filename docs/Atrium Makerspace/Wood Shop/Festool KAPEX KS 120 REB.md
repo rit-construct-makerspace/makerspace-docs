@@ -14,6 +14,8 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
 
 <p class = "clear-float"></p>
 
+## Safety Notices
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 
