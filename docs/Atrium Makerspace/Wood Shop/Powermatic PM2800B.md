@@ -15,6 +15,8 @@ The cable can be adjusted to drill holes in parts up to 40 inches tall.
 
 <p class = "clear-float"></p>
 
+## Safety Notices
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 
@@ -127,7 +129,7 @@ Above both of these is the digital speed readout. This number should be around 1
 
 <p class = "clear-float"></p>
 
-## Drilling
+## In-Person Competency Check
 <img src="..\assets\drill_press\drilling.webp" class="image-float-right" width=40%>
 Once your material is secured and your tool loaded, you can start drilling.
 

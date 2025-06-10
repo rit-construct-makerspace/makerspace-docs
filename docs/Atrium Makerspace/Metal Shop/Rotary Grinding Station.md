@@ -19,6 +19,8 @@ There are 2 rotary grinders in the wood shop, both are sanding drums. Sanding dr
 
 <p class = "clear-float"></p>
 
+## Safety Notices
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 
