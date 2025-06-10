@@ -1,1 +1,1 @@
-# Festool KAPEX KS 120 REB
+# Laguna Tools DB126
