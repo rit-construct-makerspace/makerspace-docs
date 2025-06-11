@@ -1,9 +1,3 @@
----
-hide:
-  - path
-
----
-
 # Bernina L460
 
 <img src="..\assets\l460 hero.jpg" class="image-float-right" width=60%>
