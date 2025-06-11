@@ -59,3 +59,6 @@ extra:
       link: mailto:make@rit.edu
     - icon: material/web
       link: https://make.rit.edu
+  analytics:
+    provider: google
+    property: G-V82GLF0RMY
