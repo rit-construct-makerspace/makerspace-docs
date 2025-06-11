@@ -11,7 +11,7 @@ A belt sander gives an even material removal rate.
 
 ### Prerequisites for Use
 
-* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target=_blank .md_button}
+* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>

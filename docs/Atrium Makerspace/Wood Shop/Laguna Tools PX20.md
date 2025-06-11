@@ -9,7 +9,7 @@ When planing wood that has been glued up, **ALL GLUE MUST BE REMOVED FROM BOTTOM
 Failure to remove glue may cause damage to the machine or reduce the effectiveness of the rollers to convey the material.
 
 ### Prerequisites for Use
-* [Planer Safety Training](https://make.rit.edu/app/maker/training/18){target=_blank .md_button}
+* [Planer Safety Training](https://make.rit.edu/app/maker/training/18){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>

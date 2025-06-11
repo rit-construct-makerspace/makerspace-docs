@@ -7,7 +7,7 @@ The JX 8 is a Jointer with a cutting width of 8 inches. This piece of equipment 
 By adjusting the table height on the infeed, you feed the material over a cutting head and along a fence to create a square face.
 
 ### Prerequisites for Use
-* [Jointer Safety Training](https://make.rit.edu/app/maker/training/12){target=_blank .md_button}
+* [Jointer Safety Training](https://make.rit.edu/app/maker/training/12){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>

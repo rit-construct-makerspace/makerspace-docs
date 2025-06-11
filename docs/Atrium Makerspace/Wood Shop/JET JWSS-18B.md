@@ -10,7 +10,7 @@ The scroll saw is operated via foot pedal to control speed of the blade.
 
 ### Prerequisites for Use
 
-* [Scroll Saw Safety Training](https://make.rit.edu/app/maker/training/20){target=_blank .md_button}
+* [Scroll Saw Safety Training](https://make.rit.edu/app/maker/training/20){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>

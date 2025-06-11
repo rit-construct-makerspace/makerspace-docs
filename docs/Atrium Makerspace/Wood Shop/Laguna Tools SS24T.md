@@ -9,7 +9,7 @@ The sanding drum can be tilted up to 45 degrees to allow for chamfering / beveli
 
 ### Prerequisites for Use
 
-* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target=_blank .md_button}
+* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>
