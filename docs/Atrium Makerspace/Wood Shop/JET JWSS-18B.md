@@ -1,5 +1,5 @@
 # JET JWSS-18B
-<img src="..\assets\scroll_saw\scroll_saw.png" class="image-float-right" width=50%>
+<img src="..\assets\scroll_saw\scroll_saw.jpg" class="image-float-right" width=50%>
 The scroll saw is a great tool for when it comes to cutting thin materials or needing to make complex cuts
 
 The thin blade of a scroll saw will make quick work through soft and thin material.
@@ -10,7 +10,7 @@ The scroll saw is operated via foot pedal to control speed of the blade.
 
 ### Prerequisites for Use
 
-* [Scroll Saw Safety Training](https://make.rit.edu/app/maker/training/20){target=_blank .md_button}
+* [Scroll Saw Safety Training](https://make.rit.edu/app/maker/training/20){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>

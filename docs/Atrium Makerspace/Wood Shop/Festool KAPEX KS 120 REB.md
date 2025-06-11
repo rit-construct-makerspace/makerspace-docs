@@ -1,7 +1,5 @@
 # Festool KAPEX KS 120 REB
 
-## Overview
-
 <img src="../assets/miter_saw/miter_saw.png" class="image-float-right" width=60%>
 
 The miter* saw is used for cutting longer material, such as 2x4 posts, at compound angles and tilts. This allows the creation of complex joints and geometry. The miter saw is capable of quickly cutting through thick material and leaves a clean cut, but the thick blade leaves a considerable kerf.
@@ -52,6 +50,8 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
     Do not cut PVC or other frangible plastic.
 
     <p class = "clear-float"></p>
+
+## Overview
 
 ### Machine Overview (Front)
 
@@ -124,7 +124,9 @@ Once your angles are set and your workpiece is secured, you are ready to cut.
 8. Slide the miter saw backwards until fully through your material.
 9. Lift the saw out of your material and release the On/Off Trigger Switch to turn off the blade.
 
-## Different Cut Types
+## Techniques
+
+### Different Cut Types
 <img src="../assets/miter_saw/festool_cuts.webp" class="image-float-right" width=40%>
 
 The KAPEX machine is capable of straight, miter, bevel, or miter/bevel cuts. 
@@ -139,7 +141,7 @@ Miter and bevel cuts can be combined to make very complex edges.
 
 <p class = "clear-float"></p>
 
-## Adjusting for a Miter Cut
+### Adjusting for a Miter Cut
 
 <img src="../assets/miter_saw/festool
 _miter.webp" class="image-float-left" width=40%>
@@ -157,7 +159,7 @@ Once at the desired angle, press the clamping lever downwards.
 
 <p class = "clear-float"></p>
 
-## Adjusting for a Bevel (Vertical Miter) Cut
+### Adjusting for a Bevel (Vertical Miter) Cut
 
 <img src="../assets/miter_saw/festool_bevel.webp" class="image-float-left" width=40%>
 
@@ -168,7 +170,7 @@ Once at the desired angle, press the clamping lever downwards.
 
 <p class = "clear-float"></p>
 
-## Setting Up Grooving or Facing Cuts
+### Setting Up Grooving or Facing Cuts
 
 <img src="../assets/miter_saw/festool_facing.webp" class="image-float-right" width=40%>
 
@@ -178,7 +180,7 @@ The miter saw can do more than just through-cuts. By limiting the saw's depth, y
 2. Set the cutting depth you would like by turning the cutting depth limiting lever (the same one used to turn on this mode)
 3. To deactivate the depth limiter, swivel the limiter lever back up again.
 
-## Fixed Horizontal Position
+### Fixed Horizontal Position
 For certain grooving or facing cuts, it may be necessary to stop the sliding mechanism of the miter saw. To do this, move the saw to where you want along the guide rod (15.3), and turn the rotary knob (15.2) to secure it.
 
 <p class = "clear-float"></p>

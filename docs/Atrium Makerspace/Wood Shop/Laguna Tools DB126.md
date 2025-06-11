@@ -1,6 +1,6 @@
 # Laguna Tools DB126
 
-<img src="..\assets\belt_sander\sander.webp" class="image-float-right" width=50%>
+<img src="..\assets\belt_sander\sander.jpg" class="image-float-right" width=30%>
 The DB126 is a combination disc and belt sander. The disc is 12" wide, and the belt is 6" wide.
 
 A sander is great for cleaning up edges and removing rough material from a piece of wood. 
@@ -11,7 +11,7 @@ A belt sander gives an even material removal rate.
 
 ### Prerequisites for Use
 
-* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target=_blank .md_button}
+* [Belt and Oscillating Sander Safety Training](https://make.rit.edu/app/maker/training/16){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>
@@ -79,7 +79,7 @@ down towards the table
 
 <p class = "clear-float"></p>
 
-## In-Person Competency
+## In-Person Competency Check
 <img src="..\assets\belt_sander\competent.png" class="image-float-right" width=40%>
 
 1. Grab a scrap of wood
