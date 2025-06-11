@@ -79,7 +79,7 @@ down towards the table
 
 <p class = "clear-float"></p>
 
-## In-Person Competency
+## In-Person Competency Check
 <img src="..\assets\belt_sander\competent.png" class="image-float-right" width=40%>
 
 1. Grab a scrap of wood
