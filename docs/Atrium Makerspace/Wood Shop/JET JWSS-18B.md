@@ -1,5 +1,5 @@
 # JET JWSS-18B
-<img src="..\assets\scroll_saw\scroll_saw.png" class="image-float-right" width=50%>
+<img src="..\assets\scroll_saw\scroll_saw.jpg" class="image-float-right" width=50%>
 The scroll saw is a great tool for when it comes to cutting thin materials or needing to make complex cuts
 
 The thin blade of a scroll saw will make quick work through soft and thin material.

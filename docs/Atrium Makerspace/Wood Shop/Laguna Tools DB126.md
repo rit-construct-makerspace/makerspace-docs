@@ -1,6 +1,6 @@
 # Laguna Tools DB126
 
-<img src="..\assets\belt_sander\sander.webp" class="image-float-right" width=50%>
+<img src="..\assets\belt_sander\sander.jpg" class="image-float-right" width=30%>
 The DB126 is a combination disc and belt sander. The disc is 12" wide, and the belt is 6" wide.
 
 A sander is great for cleaning up edges and removing rough material from a piece of wood. 

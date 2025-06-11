@@ -1,6 +1,6 @@
 # Laguna Tools JX8
 
-<img src="../assets/jointer/jointer.webp" class="image-float-right" width=60%>
+<img src="../assets/jointer/jointer.webp" class="image-float-right" width=50%>
 
 The JX 8 is a Jointer with a cutting width of 8 inches. This piece of equipment is meant to create a square face on a board, to allow for jointery.
 
