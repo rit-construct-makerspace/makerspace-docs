@@ -50,10 +50,10 @@ The band saw is driven by large wheels. Upon stopping the machine, a foot brake 
 
 ## Loading and Securing Materials
 * Always use both hands to firmly yet gently guide the
-material through the cut.
+material through the cut
 * Any pieces close to 4” in any dimension should be
-pushed through with a push stick.
-* Do not cut anything smaller than 4” in length.
+pushed through with a push stick
+* Do not cut anything smaller than 4” in length
 
 ## Adjust the Blade Guide and Guards
 <img src="..\assets\band_saw\guide_adjust.png" class="image-float-right" width=30%>
@@ -61,27 +61,27 @@ pushed through with a push stick.
 The blade guard helps to prevent contact with the exposed
 blade. Use it every time.
 
-1. Loosen the lock knob slightly.
+1. Loosen the lock knob slightly
 2. Positioning your material next to the blade, Use your hand
 to push the upper guide assembly up or down until it’s a
-1/4” above the material.
+1/4” above the material
 3. Once in position, turn the adjustment knob to tighten it
-until it’s snug.
+until it’s snug
 
 <p class = "clear-float"></p>
 
 ## Adjusting the Fence
 <img src="..\assets\band_saw\fence_adjust.png" class="image-float-right" width=30%>
 
-1. The fence helps to guide straight and consistent cuts.
-2. Turn the knob counter clockwise to loosen the fence.
+1. The fence helps to guide straight and consistent cuts
+2. Turn the knob counter clockwise to loosen the fence
 3. Move the fence to create the width needed or remove to
-make curved and freehand cuts.
-    - To remove the fence, slide it off the edge of the table.
+make curved and freehand cuts
+    - To remove the fence, slide it off the edge of the table
     - If removing the fence, set it down somewhere safe
 nearby (NOT on the floor) and always put it back on
-when done.
-4. Tighten the knob clockwise to secure it in place.
+when done
+4. Tighten the knob clockwise to secure it in place
 
 <p class = "clear-float"></p>
 

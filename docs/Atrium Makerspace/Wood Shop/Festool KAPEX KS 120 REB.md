@@ -7,7 +7,7 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
 *Note: “Miter” is the American spelling of the British English “Mitre”. Both terms are referring to the same thing and can be used interchangeably. FesTool is a European company, so it is more common to see “Mitre” in their documentation.
 
 ### Prerequisites for Use
-* [Miter Saw Safety Training](https://make.rit.edu/app/maker/training/22){target=_blank .md_button}
+* [Miter Saw Safety Training](https://make.rit.edu/app/maker/training/22){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>
@@ -114,15 +114,15 @@ When cutting very thin material (17.2) reinforce it by clamping it with a thicke
 ## In-Person Competency Check
 Once your angles are set and your workpiece is secured, you are ready to cut.
 
-1. Check your cut is in the right spot by turning on the laser with the Laser Switch.
-2. Press the On/Off Trigger Switch down until you feel resistance to release the Pendulum Guard.
-3. Press the Safety Lock button on the top of the Handle with your thumb.
-4. Press the On/Off Trigger Switch all the way in to switch on the machine.
+1. Check your cut is in the right spot by turning on the laser with the Laser Switch
+2. Press the On/Off Trigger Switch down until you feel resistance to release the Pendulum Guard
+3. Press the Safety Lock button on the top of the Handle with your thumb
+4. Press the On/Off Trigger Switch all the way in to switch on the machine
 5. The connected vacuum system will automatically start
 6. Pull the saw forward and down slowly until it makes contact with your material
 7. Bring the blade down until it bottoms out
-8. Slide the miter saw backwards until fully through your material.
-9. Lift the saw out of your material and release the On/Off Trigger Switch to turn off the blade.
+8. Slide the miter saw backwards until fully through your material
+9. Lift the saw out of your material and release the On/Off Trigger Switch to turn off the blade
 
 ## Techniques
 
