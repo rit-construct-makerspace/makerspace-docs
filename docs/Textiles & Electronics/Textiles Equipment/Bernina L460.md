@@ -98,10 +98,28 @@ The upper dial on the right of the machine adjusts the spacing between stitches,
 
 The lower dial (A) on the right of the machine adjusts the feed dogs (B)(C). Feed dogs are the components of the machine that feed material through. The L460 has 2 independent feed dogs, that can be made to run at different rates. This can help avoid unwanted puckering and wavering in the finished material. The following options are available;
 
-* **Gathering** (Setting 2)
+**Gathering** (Setting 2)
 
+* Differential Speed: 1:2
+* The front feed dog (B) makes a longer stroke than the back feed dog (C).
+* This results in more material being fed under the presser foot an thus avoiding unwanted waving.
+* This setting may also be used to gather materials on purpose
 
+**Light Gathering** (Setting 1.5)
 
+* Differential Speed: 1:1.5
+* Similar to Gathering, but less extreme.
+
+**Neutral** (Setting 1)
+
+* Differential Speed: 1:1
+* Default setting, no stretching or gathering.
+
+**Stretching** (Setting 0.7)
+
+* Differential Speed 0.7:1
+* The front feed dog (B) makes a shorter stroke than the back feed dog (C).
+* This results in the material under the presser foot being stretched, reducing puckering. 
 
 <p class = "clear-float"></p>
 
@@ -120,7 +138,6 @@ Reasons and actions:
 * If overheating should occur, the motor will be cut off and the Safety LED will flash.
     * Switch off the machine for 10 - 15 Minutes to cool down. Afterwards sewing can be 
 
-
 ### Empty Cut-Off Bin
 
 <img src="..\assets\l460 cutoffs.png" class="image-float-right" width=40%>
@@ -135,3 +152,56 @@ To re-install the cut-off bin, align the bottom connection bar (2) with the gap 
     The cut-off bin is mounted on a sliding access panel of the machine. If the access panel slides open while removing the bin, close it by lifting it back up and it will seat by sliding to the left.
 
 <p class = "clear-float"></p>
+
+### Priming 
+
+<img src="..\assets\l460 priming.png" class="image-float-right" width=40%>
+
+To ensure the machine does not unthread itself, it is recommended to "prime" the machine with additional stitches before and after sewing your part.
+
+**Using tweezers** grab the threads as they exit the machine, and either manually advance the machine with the handwheel or press slightly on the foot pedal. 
+
+Clip the tail of the thread so that it is at least 1" long, to prevent the tension from pulling it back in. 
+
+<p class = "clear-float"></p>
+
+### Starting a Seam
+
+<img src="..\assets\l460 start stitch.png" class="image-float-right" width=40%>
+
+* Sew to form a 4cm/1.5" chain (1).
+* Position the fabric and sew one stitch.
+* Bring the needles down.
+* Raise the presser foot.
+* Pull the thread chain gently to the left and place it in front under the presser foot.
+* Lower the presser foot.
+* Sew over the thread chain (2).
+* After approx. 2cm/1", cut off the excess. 
+
+<p class = "clear-float"></p>
+
+### Ending a Seam
+
+<img src="..\assets\l460 end stitch.png" class="image-float-right" width=40%>
+
+* Sew to the end of the seam.
+* Raise the needles.
+* Raise the presser foot.
+* Pull the work carefully towards the back.
+* Turn the seam over and lay it under the presser foot (3) so that the needles enter the fabric with the first stitch.
+* Lower the presser foot.
+* Sew carefully over the previous stitches (without cutting) for about 2-3cm/1.5".
+* Turn the work to the left and sew an additional thread chain (not in fabric). (4)
+* Pull the thread chain from the back over the thread cutter to trim it.
+
+<p class = "clear-float"></p>
+
+<img src="..\assets\l460 secure stitch.png" class="image-float-right" width=40%>
+
+* Secure the thread chain by using a darning needle to feed the fail back through the last few stitches.
+
+<p class = "clear-float"></p>
+
+## In-Person Competency Check
+
+To demonstrate competency on the serger, makers will make a small bag (pencil case) out of 2 pieces of fabric. They must demonstrate how to stitch the two pieces of cut fabric together, properly starting and stopping the stitch
