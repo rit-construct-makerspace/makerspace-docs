@@ -139,9 +139,9 @@ screw.
 
 <img src="..\assets\scroll_saw\competent.png" class="image-float-right" width=50%>
 
-1. Grab a scrap piece of wood.
-2. Adjust material hold down foot.
-3. Sketch a complex line on material.
-4. Follow along drawn path.
+1. Grab a scrap piece of wood
+2. Adjust material hold down foot
+3. Sketch a complex line on material
+4. Follow along drawn path
 
 <p class = "clear-float"></p>
