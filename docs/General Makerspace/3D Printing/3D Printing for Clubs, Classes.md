@@ -1,4 +1,5 @@
-# 3D Printing for Clubs, Classes, & Official Functions
+# Clubs, Classes, & Official Functions
+
 By default, prints you submit to 3DPrinterOS are charged to you personally. Follow the steps below to have your print billed to a class, club, or official function such as a research group. 
 
 Before you can use the 3D Printers at the SHED, please make sure to complete the following steps:

@@ -249,7 +249,7 @@ Once you have hooped and loaded your material, and loaded your embroidery file (
     * Repeat until all colors assigned
     * If not assigned manually, the machine will try to choose the closest color.
 
-If all this is set, you are ready to embroider! The E16 will embroider your design as-shown on the screen, in the center of the hoop. IF you do not want this, see [Aligning and Tracing](#aligning-and-tracing) below.
+If all this is set, you are ready to embroider! The E16 will embroider your design as-shown on the screen, in the center of the hoop. IF you do not want this, see [Aligning and Tracing](#aligning-and-transforming) below.
 
 <p class = "clear-float"></p>
 
