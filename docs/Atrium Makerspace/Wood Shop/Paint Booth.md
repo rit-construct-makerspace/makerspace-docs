@@ -20,7 +20,7 @@ Time must be scheduled for use to avoid conflicts between other users. Time can 
 
 [RIT Voluntary Use Form](https://www.rit.edu/ehs/sites/rit.edu.ehs/files/documents/Information%20for%20Employees%20Using%20Respirators%20Form-Voluntary%20Use%20Form%20-%20editable.pdf){:target="_blank" .md-button}
 
-[SHED Paint Booth Form](){:target="_blank" .md-button}
+[SHED Paint Booth Form](./assets/paint_booth/Paint%20Booth%20Activity%20Form.pdf){:target="_blank" .md-button}
 
 </div>
 
