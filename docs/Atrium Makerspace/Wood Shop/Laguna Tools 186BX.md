@@ -10,7 +10,7 @@ The band saw is driven by large wheels. Upon stopping the machine, a foot brake 
 
 ### Prerequisites for Use
 
-* [Drill Press Safety Training](https://make.rit.edu/app/maker/training/11){target="_blank"}
+* [Band Saw Safety Training](https://make.rit.edu/app/maker/training/11){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>
@@ -55,15 +55,13 @@ material through the cut
 pushed through with a push stick
 * Do not cut anything smaller than 4” in length
 
-## Adjust the Blade Guide and Guards
+## Adjust the Blade Guide
 <img src="..\assets\band_saw\guide_adjust.png" class="image-float-right" width=30%>
 
-The blade guard helps to prevent contact with the exposed
-blade. Use it every time.
+The blade guide holds the blade square and counters the push forces from the user.
 
-1. Loosen the lock knob slightly
-2. Positioning your material next to the blade, Use your hand
-to push the upper guide assembly up or down until it’s a
+1. Loosen the lock knob (A) slightly 
+2. Positioning your material next to the blade, Use the height adjustment knob (B) to move up or down until it’s a1/8" to 
 1/4” above the material
 3. Once in position, turn the adjustment knob to tighten it
 until it’s snug
