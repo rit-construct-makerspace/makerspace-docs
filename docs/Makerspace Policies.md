@@ -99,11 +99,39 @@ Animals are not permitted in any makerspace, except for a Service Animal as defi
 
 ## Material Policies
 
-It is the responsibility of the maker to ensure all materials they are bringing in to the makerspace are compliant with the following requirements. At any time, staff may request a Material Safety Data Sheet (MSDS) from a maker, who must immediately provide it.
+It is the responsibility of the maker to ensure all materials they are bringing in to the makerspace are compliant with the following requirements. 
+
+At any time, staff may request a Material Safety Data Sheet (MSDS) from a maker, who must immediately produce it.
 
 ### Prohibited Wood
 
+Some species of wood are prohibited from being brought into the makerspace in any capacity or form, due to safety concerns. These include, but are not limited to:
+
+* Pink Cedar: Mildly toxic
+* Almond Wood: Cyanide content
+* Ash (All Species): Reduced lung function
+* **Ebony (All Species)**: General irritant.
+* Greenheart: Highly toxic, splinters go septic
+* **Mahogany**: Pneumonitis alveolitis
+* Milky Mangrove: Sap causes irritation to eyes, including temporary blindness. Skin contact can cause blistering.
+* Mimosa: Contact with leaves and bark can lead to pneumonia.
+* Oleander: Dust and all parts of the tree are extremely toxic.
+* **Padauk**: General irritant
+* **Purpleheart**: Nausea, generalized malaise
+* Rosewood: General irritant
+* Sassafras: Dust and all parts of the tree linked with direct toxin respiratory nausea, cancer, and death.
+* Satinwood: Dust and wood causes visual disturbances, lethargy, headaches, and giddiness.
+* Strychnine Tree: All parts of the tree considered highly toxic.
+* Sumac: Blisters, dermatitis
+* Tamboti: Toxic
+* Teak: Dust can cause respiratory distress and dermatitis.
+* Walnut (All Species): Dust is an eye, nose, throat irritant.
+* Willow: Dust can cause nausea and respiratory distress.
+* Yew: Contact with dust, wood, and sap can lead to headaches, fainting, visual disturbance, and reduced blood pressure.
+
 ### Restricted Wood
+
+Pressure-treated wood, of any species or treated in any process, cannot be processed with power tools in a way that forms excessive fine dust. This includes, but is not limited to, sawing or sanding.
 
 ### Prohibited Compounds
 
