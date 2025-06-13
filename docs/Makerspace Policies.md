@@ -99,7 +99,17 @@ Animals are not permitted in any makerspace, except for a Service Animal as defi
 
 ## Material Policies
 
-It is the responsibility of the maker to ensure todo
+It is the responsibility of the maker to ensure all materials they are bringing in to the makerspace are compliant with the following requirements. At any time, staff may request a Material Safety Data Sheet (MSDS) from a maker, who must immediately provide it.
+
+### Prohibited Wood
+
+### Restricted Wood
+
+### Prohibited Compounds
+
+## Staff Discretion
+
+Furthermore, staff can ban any material deemed a hazard to health or safety of persons in the makerspace, or presents a danger to RIT property.
 
 ## Equipment Use
 
@@ -107,9 +117,9 @@ Makers must use equipment in a safe and proper way. todo
 
 ## Project Storage
 
-For the convenience of makers, some makerspaces have designated areas for temporary storage of projects. Projects stored in these areas must comply with the following requirements;
+For the convenience of makers, some makerspaces have designated areas for temporary storage of projects. This storage is meant for in-progress projects that are actively being worked on, on a regular basis. Projects stored in these areas must comply with the following requirements;
 
-* The entirety of the project must fit within the provided storage receptacle for that makerspace, and/or the permitted footprint of stored projects.
+* The entirety of the project must fit within the provided storage receptacle for that makerspace, and/or the permitted footprint of stored projects for that storage area.
 * Projects cannot be stored for more than 2 business days without being worked on.
 * Projects cannot be stored for more than 7 continuous calendar days.
 * All major components of the project must be prominently labeled with the owner's RIT email address.
