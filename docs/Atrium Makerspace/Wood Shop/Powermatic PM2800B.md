@@ -6,11 +6,11 @@ The PM2800B is a drill press for making precise holes in wood or plastic parts.
 
 The PM2800B can accommodate traditional twist drills, as well as Forstner bits and hole saws.
 
-The cable can be adjusted to drill holes in parts up to 40 inches tall.
+The table can be adjusted to drill holes in parts up to 40 inches tall.
 
 ### Prerequisites for Use
 
-* [Drill Press Safety Training](https://make.rit.edu/app/maker/training/8){target=_blank .md_button}
+* [Drill Press Safety Training](https://make.rit.edu/app/maker/training/8){target="_blank"}
 * [In-Person Competency Check](#in-person-competency-check)
 
 <p class = "clear-float"></p>
