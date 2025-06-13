@@ -33,9 +33,9 @@ All work completed in the makerspace is considered to be part of or towards the 
 
 * **Club**: These are projects defined as being for the benefit of or as part of the actions of an official club, union, association, or similar student organization recognized by the RIT Center for Campus Life. This can include projects to be sold for fundraising efforts that provide funding specifically for the operation of the club, organization, or similar in a way that benefits students.
 
-* **Entrepreneurial**: These are projects defined as being for the benefit of an independent, private, for-profit business. Such projects are only permitted if the business is in part or fully owned by a [maker](#permitted-users) or being developed by a [maker](#permitted-users) through an RIT-sponsored or RIT-affiliated business accelerator, incubator, or similar, and the project is for the development of the business, not for immediate sale, use in the creation of an item or service for sale, or for other commercial benefit. Some examples of permitted entrepreneurial projects are developing and manufacturing prototypes, creating end-use devices for user testing, etc.
+* **Entrepreneurial**: These are projects defined as being for the benefit of an independent, private, for-profit business. Such projects are only permitted if the business is in part or fully owned by a [maker](#permitted-users) or being developed by a [maker](#permitted-users) through an RIT-sponsored or RIT-affiliated business accelerator, incubator, or similar. The project must be for the development of the business, not for immediate sale, use in the creation of an item or service for sale, or for other commercial benefit. Some examples of permitted entrepreneurial projects are developing and manufacturing prototypes, creating end-use devices for user testing, etc.
 
-* **Internal**: These are projects defined as being primarily for the benefit of RIT, as performed by a [maker](#permitted-users) under the instruction or order of faculty or staff of the university acting in an official capacity. This can include, but is not limited to, fabrication of replacement components for RIT assets, design of aesthetic pieces for RIT property, or repair of RIT assets.
+* **Internal**: These are projects defined as being primarily for the benefit of RIT, as performed by a [maker](#permitted-users) under the instruction or order of faculty or staff of the university acting in an official capacity. This can include, but is not limited to, fabrication of RIT assets, design of aesthetic pieces for RIT property, or repair of RIT assets.
 
 All other project classifications are not permitted in the makerspace. This includes, but is not limited to for-profit work, manufacturing for commercial purposes, working on projects for non-RIT entities, etc.
 
@@ -91,8 +91,6 @@ It is the responsibility of makers to understand the required Personal Protectiv
 
 For the purposes of makerspace policies, "animals" is defined by [7 USC § 136(d)](https://www.law.cornell.edu/uscode/text/7/136#d)
 
-No project in the makerspace may involve an animal or animals.
-
 No project in the makerspace may result, either through its execution or with the end-result, in the injury, death, or otherwise harm of an animal or animals.
 
 Animals are not permitted in any makerspace, except for a Service Animal as defined by RIT Policy [C13.0 Service or Assistance Animal Policy](https://www.rit.edu/policies/c130) and approved by the RIT Disability Services Office.
@@ -129,19 +127,51 @@ Some species of wood are prohibited from being brought into the makerspace in an
 * Willow: Dust can cause nausea and respiratory distress.
 * Yew: Contact with dust, wood, and sap can lead to headaches, fainting, visual disturbance, and reduced blood pressure.
 
-### Restricted Wood
+### Pressure-Treated Wood
 
 Pressure-treated wood, of any species or treated in any process, cannot be processed with power tools in a way that forms excessive fine dust. This includes, but is not limited to, sawing or sanding.
 
-### Prohibited Compounds
+### Restricted Metals
 
-## Staff Discretion
+* **Lead**: Elemental lead, or any substance containing lead, such as leaded solder or leaded metal alloys, cannot be processed in the makerspace.
+* **Mercury**: Elemental mercury, or any substance containing mercury, cannot be processed in the makerspace. Commercially-available components that use mercury fully enclosed inside a permanently sealed vessel, such as mercury switches, are permitted if proper precautions are taken to ensure no containment breaches.
+* **Alkaline Metals**: Alkaline and Alkaline Earth metals (those belonging to the first and second columns of the periodic table, respectively) are not permitted in their elemental forms. This includes magnesium, lithium, sodium, etc. Compounds of these metals that readily or easily decompose to their elemental form are not permitted.
+* **Titanium**: The cutting, forming, or welding of titanium is not permitted without supervision by and approval of the makerspace director.
 
-Furthermore, staff can ban any material deemed a hazard to health or safety of persons in the makerspace, or presents a danger to RIT property.
+### Energetics
+
+* **Explosives**: Explosives, including low and high explosives and are not permitted in the makerspace, including as part of a larger object or assembly.
+* **Flammable Gasses** : Only flammable gasses provided by the makerspace and used under supervision of trained professionals may be present in the makerspace.
+* **Compressed Gasses and Liquids**: Compressed Gasses and Liquids are only permitted if inside of vessels with a valid DOT-compliant hydrostatic testing stamp.
+
+### Radiation
+
+No material of notable radioactivity is permitted in the makerspace without the express permission of the makerspace director.
+
+### Staff Discretion
+
+Furthermore, staff can restrict any material deemed a hazard to health or safety of persons in the makerspace, or presents a danger to RIT property.
+
+## Electrical Policies
+
+* No component, device, circuit, or system capable of generating, storing, or otherwise delivering a voltage in excess of 48 volts is permitted to be worked on in the makerspace without staff approval. 
+* No device, circuit, or system intended to operate directly from mains AC voltage is permitted to be worked on in the makerspace without staff approval.
+* Rechargeable lithium-based batteries, including LiPo, Li-Ion, and LiFePO4 chemistries, cannot be worked on in the makerspace **unless** they have a factory-installed battery protection circuit to prevent overdischarge and short-circuit.
+* Batteries not integrated into a commercially-available product as they come from the manufacturer may not be charged in any makerspace. 
+* Intentional radiators, as defined by [47 CFR Part 15 Subpart C](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-15/subpart-C), may only be operated in accordance with FCC regulations by a licensed operator, if applicable.
+* Radio jamming equipment, or devices, components, or systems of any sort intended to interrupt with the regular operation of an electrical device are not permitted.
 
 ## Equipment Use
 
-Makers must use equipment in a safe and proper way. todo
+Makers must use equipment, which includes all tools, machinery, resources, consumables, and similar in a safe and proper way, as described in the applicable equipment training and documentation. 
+
+Makers must complete all relevant mandated trainings and safety instructional content before attempting to use a piece of equipment. This includes trainings mandated by the makerspace as well as trainings mandated by RIT's office of Environmental Health and Safety. 
+
+Attempting to use equipment 
+
+## Free Consumables
+
+The makerspaces offer many consumable components and resources for free for makers. Abuse of these free consumables, such as over-use or taking more than reasonably needed, is not permitted.
 
 ## Project Storage
 
@@ -166,6 +196,28 @@ Abandoned property may be moved to a different area of the makerspace, removed f
 
 The makerspace assumes no liability for damage, theft, or loss of abandoned property.
 
+## Access to Spaces
+
+All makerspaces are available to all [makers](#permitted-users) when designated as open by staff. The official open hours the makerspaces can be found at [make.rit.edu](https://make.rit.edu), but it is at the discretion of staff in that moment if a makerspace is opened or closed.
+
+Makerspaces are closed in observance of university holidays, snow days, and other such events that result in a university closure.
+
+Upon a makerspace closing for whatever reason, makers are expected to promptly exit the space ensuring it is neat and orderly.
+
+If a maker ever finds a makerspace accessible without staff present, they are required to promptly notify RIT Public Safety.
+
+### After-Hours Access
+
+Some persons, as part of their association with an event, project, group, or otherwise, have select after-hours access to select areas of some makerspaces. This is defined as having the ability and authority to use a makerspace outside of the regularly posted hours and without staff present. Such persons are able to access the makerspace via the university's access control keycard system, henceforth referred to as "swipe". 
+
+All makerspace policies remain in effect during after-hours access. 
+
+Persons with swipe to a makerspace may allow other [makers](#permitted-users) entrance into the space, and take full personal responsibility for the actions of these makers. This includes ensuring compliance with makerspace policies. Persons with after-hours access are not expected to open the makerspace for all makers, and may be selective in who they allow into the space. All other makers must leave the space before the person with swipe does. It is the responsibility of the person with swipe to ensure the space is secured properly before departing. 
+
+After-hours access is defined and limited on a case-by-case basis. It is the responsibility of the person with swipe to understand the specifics of their after-hours access, and ensure themselves and all other makers they permit in are in compliance with the terms of this access.
+
+Such after-hours access is issued solely at the discretion of the makerspace director, and can be revoked at any time. 
+
 ## Policy Exemptions
 
 If judged to be for the benefit of RIT, the makerspace, or the common good, the makerspace director may temporarily or permanently exempt a person, group, and/or project from any or all makerspace policies, as permitted within compliance of university policy and any applicable law.
@@ -174,7 +226,7 @@ If judged to be for the benefit of RIT, the makerspace, or the common good, the 
 
 The following policies apply in addition to, but do not supersede, the above;
 
-### Makerspace=Specific Policies
+### Makerspace-Specific Policies
 
 Each makerspace has specific policies and restrictions. Please make sure to read them in full before using that specific space. 
 
