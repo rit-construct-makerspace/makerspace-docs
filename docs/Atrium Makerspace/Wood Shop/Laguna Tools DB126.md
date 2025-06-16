@@ -5,9 +5,9 @@ The DB126 is a combination disc and belt sander. The disc is 12" wide, and the b
 
 A sander is great for cleaning up edges and removing rough material from a piece of wood. 
 
-A disc sander offers variable speed of removal the further or closer to center you are.
+A disc sander has a larger table and is better suited to sanding non-flat profiles (corner radii).
 
-A belt sander gives an even material removal rate.
+A belt sander has a smaller table and is better suited to sanding flat profiles.
 
 ### Prerequisites for Use
 
