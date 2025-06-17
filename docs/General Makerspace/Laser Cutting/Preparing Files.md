@@ -56,7 +56,13 @@ Let's take a look at an example file, and prepare it for laser cutting. The file
 
 Inkscape, the software we will use to clean this file, is a free vector editor we use a lot at the SHED. You can find it on any of our computers, or download it yourself at the link below.
 
+<div class="grid" markdown>
+
 [Example File](..\assets\preparing\laser-demo-file.pdf){target="blank" .md-button}
+
+[Inkscape Download](https://inkscape.org/en/release/){:target="_blank" .md-button}
+
+</div>
 
 <p class = "clear-float"></p>
 
