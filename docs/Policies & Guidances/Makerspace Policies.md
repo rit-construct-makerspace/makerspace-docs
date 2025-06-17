@@ -35,7 +35,7 @@ All work completed in the makerspace is considered to be part of or towards the 
 
 * **Research**: These are projects defined as being for the execution of RIT-affiliated research work, being primarily conducted by RIT students, faculty, and/or staff in the service of RIT, and/or primarily being conducted in RIT-owned or RIT-sponsored facilities.
 
-* **Club**: These are projects defined as being for the benefit of or as part of the actions of an official club, union, association, or similar student organization recognized by the RIT Center for Campus Life. This can include projects to be sold for fundraising efforts that provide funding specifically for the operation of the club, organization, or similar in a way that benefits students.
+* **Club**: These are projects defined as being for the benefit of or as part of the actions of an official club, union, association, or similar student organization recognized by the RIT Center for Campus Life or a college under RIT. This can include projects to be sold for fundraising efforts that provide funding specifically for the operation of the club, organization, or similar in a way that benefits students.
 
 * **Entrepreneurial**: These are projects defined as being for the benefit of an independent, private, for-profit business. Such projects are only permitted if the business is in part or fully owned by a [maker](#permitted-users) or being developed by a [maker](#permitted-users) through an RIT-sponsored or RIT-affiliated business accelerator, incubator, or similar. The project must be for the development of the business, not for immediate sale, use in the creation of an item or service for sale, or for other commercial benefit. Some examples of permitted entrepreneurial projects are developing and manufacturing prototypes, creating end-use devices for user testing, etc.
 
@@ -67,7 +67,7 @@ Information collected by the makerspace for the purpose of identifying makers is
 
 ## Alcohol, Drugs, Medication, and Other Mind-Altering Substances
 
-No person may enter or use the makerspace if they are under the influence of alcohol, drugs, and/or other mind-altering substances. 
+No person may enter or use the makerspace if they are under the influence of alcohol, drugs, and/or other mind-altering substances that may impair their ability to safely and properly operate equipment. 
 
 Makers who are taking or have recently taken prescription medication should consult their prescribing healthcare practitioner to determine if it is safe and proper for them to be near and/or operating the equipment found in the makerspace.
 
@@ -79,7 +79,7 @@ No person may enter any makerspace if the clothing they are wearing does not sat
 
 * **Bags**: Backpacks, purses, fanny packs, and other similar carrying containers must be removed and stored away from any rotating, spinning, or moving equipment.
 
-* **Long Hair***: Hair that generally falls below the shoulder should be tied up or otherwise secured in a way that prevents it from being tangled.
+* **Long Hair**: Hair that generally falls below the shoulder should be tied up or otherwise secured in a way that prevents it from being tangled.
 
 * **Loose Clothing**: Loose and/or baggy clothing is a risk of entanglement and must be secured or removed.
 
