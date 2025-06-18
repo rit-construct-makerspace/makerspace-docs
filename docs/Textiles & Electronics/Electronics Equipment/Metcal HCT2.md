@@ -10,6 +10,22 @@ Hot air stations are used to solder very small electrical components with a past
 
 <p class = "clear-float"></p>
 
+## Safety Notice
+
+=== "Heat Hazard"
+
+    <img src="../assets/heat hazard.webp" class="image-float-left" width=20%>
+
+    * Be mindful of where the hot air is going.
+
+    * Do not point hot air at yourself or others.
+
+    * Do not point hot air at flammable materials.
+
+    * Only put down tool in designated holder. 
+
+    <p class = "clear-float"></p>
+
 ## Operating the HCT2
 
 <img src="../assets/hct2.webp" class="image-float-right" width=50%>
