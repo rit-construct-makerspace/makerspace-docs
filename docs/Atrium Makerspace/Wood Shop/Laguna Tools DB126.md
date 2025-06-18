@@ -43,39 +43,38 @@ A belt sander has a smaller table and is better suited to sanding flat profiles.
 ## Disc Sander
 <img src="..\assets\belt_sander\disc_sander.png" class="image-float-right" width=40%>
 
-- A disk of sandpaper is spun at high speeds to
-remove material from corners and edges.
-- There are two forms of disc sanders, disc only and
-belt/ disc combination sanders.
-- Only use the side where the disc is coming down
-towards the table.
-- The table can be tilted to sand at non-right angles.
-- To tilt: loosen knob on right-hand side of table and
-tilt. Return to neutral position when finished.
-- Your material should only be getting moved side to
-side
-- Keep the material resting on the table
-- The disc and belt sanders will pull your material
-down towards the table
+* A disk of sandpaper is spun at high speeds to remove material from corners and edges.
+
+* Only use the side where the disc is coming down towards the table.
+
+* The table can be tilted to sand at non-right angles.
+
+* To tilt: loosen knob on right-hand side of table and tilt. Return to neutral position when finished.
+
+* Your material should only be getting moved side to side
+
+* Keep the material resting on the table
+
+* The disc and belt sanders will pull your material down towards the table
 
 <p class = "clear-float"></p>
 
 ## Belt Sander
 <img src="..\assets\belt_sander\belt_sander.png" class="image-float-right" width=40%>
 
-- A belt strip of sandpaper is spun at high speeds to
-remove material from corners and edges.
-- There are two forms of belt sanders, belt only and
-belt/ disc combination sanders.
-- The table can be tilted to sand at non-right angles.
-- To tilt: loosen knob on right-hand side of table and
-tilt. Return to neutral position when finished.
-- Your material should only be getting moved side to
-side
-- Keep the material resting on the table
-- The disc and belt sanders will pull your material
-down towards the table
-<img src="..\assets\belt_sander\tilt_table.png" class="image-float-left" width=80%>
+* A belt strip of sandpaper is spun at high speeds to remove material from corners and edges.
+
+* The table can be tilted to sand at non-right angles.
+
+* To tilt: loosen knob on right-hand side of table and tilt. Return to neutral position when finished.
+
+* Your material should only be getting moved side to side
+
+* Keep the material resting on the table
+
+* The disc and belt sanders will pull your material down towards the table
+
+<img src="..\assets\belt_sander\tilt_table.png" class="image-float-left" width=40%>
 
 <p class = "clear-float"></p>
 
