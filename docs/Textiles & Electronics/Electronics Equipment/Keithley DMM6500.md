@@ -2,7 +2,7 @@
 
 <div class="grid" markdown>
 
-[Multimeter User's Manual](..//assets/dmm6500/DMM6500-900-01B_User_Aug_2019.pdf){target="blank" .md-button}
+[Multimeter User's Manual](../assets/dmm6500/DMM6500-900-01B_User_Aug_2019.pdf){target="blank" .md-button}
 
 [Keithley DMM6500 Relevant Documentation](https://www.tek.com/en/products/keithley/digital-multimeter/dmm6500){:target="_blank" .md-button}
 
