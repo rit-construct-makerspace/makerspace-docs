@@ -1,6 +1,6 @@
 # Festool KAPEX KS 120 REB
 
-<img src="../assets/miter_saw/miter_saw.png" class="image-float-right" width=60%>
+<img src="../assets/miter_saw/miter_saw.png" class="image-float-right" width=40%>
 
 The miter* saw is used for cutting longer material, such as 2x4 posts, at compound angles and tilts. This allows the creation of complex joints and geometry. The miter saw is capable of quickly cutting through thick material and leaves a clean cut, but the thick blade leaves a considerable kerf.
 
