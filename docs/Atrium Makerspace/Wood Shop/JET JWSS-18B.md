@@ -68,11 +68,11 @@ blade holder knob.
 
 4. Flip tension lever (D, Figure 9-3) upward to
 release guide.
+5. Guide blade up through table slot and push
+blade holder into lower blade chuck (E).
 
 <img src="..\assets\scroll_saw\blade_install_2.png" class="image-float-right" width=40%>
 
-5. Guide blade up through table slot and push
-blade holder into lower blade chuck (E).
 6. Push top end of blade into upper guide (F),
 making sure it rests between the contact points
 of guide set screws, and against the back stop.
