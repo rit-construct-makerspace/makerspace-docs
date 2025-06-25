@@ -41,7 +41,7 @@ In the event of an emergency situation, staff are expected to act in the followi
 
 When a fire, whether in the space, in the building, or a drill/false-alarm, occurs, staff are expected to do the following;
 
-* If the fire is visible and the fire alarm has not been activated yet, it is the responsibility of the staff to activate the fire alarm and todo pickup here.
+* If the fire is visible and the fire alarm has not been activated yet, it is the responsibility of the staff to activate the fire alarm and follow the posted routes to exit the building as soon as possible.
 
 ## Staff Self-Checkout
 
