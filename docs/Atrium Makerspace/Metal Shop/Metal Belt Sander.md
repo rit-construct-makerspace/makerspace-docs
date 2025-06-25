@@ -1,6 +1,6 @@
 # Metal Belt Sander
 
-<img src="..\assets\sander\bd4802.webp" class="image-float-right" width=30%>
+<img src="..\assets\sander\BD4802.webp" class="image-float-right" width=30%>
 The BD4801-M is a combination disc and belt sander. The disc and belt are 4 inches wide. Half of the disc is covered with a guard to prevent misuse.
 
 A sander is great for cleaning up edges and removing rough material from a piece of metal.
