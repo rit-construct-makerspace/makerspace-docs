@@ -14,6 +14,9 @@ The blade is continuously coated in lubricant to keep heat down and convey chips
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 

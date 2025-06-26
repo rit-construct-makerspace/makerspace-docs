@@ -14,6 +14,9 @@ This equipment can be reserved by appointment only.
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 

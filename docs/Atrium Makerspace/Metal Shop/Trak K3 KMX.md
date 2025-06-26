@@ -23,6 +23,9 @@ This makes it great for both beginners and experienced machinists — you can le
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 

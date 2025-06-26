@@ -17,6 +17,9 @@ This machine has manual movement using handwheels, but also has the capability f
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 

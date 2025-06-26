@@ -14,6 +14,9 @@ By adjusting the table height on the infeed, you feed the material over a cuttin
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Debris Hazard"
     <img src="..\assets\debris_hazard.webp" class="image-float-right" width=30%>
 

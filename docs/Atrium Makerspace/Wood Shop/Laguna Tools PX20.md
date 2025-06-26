@@ -16,6 +16,9 @@ Failure to remove glue may cause damage to the machine or reduce the effectivene
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Debris Hazard"
     <img src="..\assets\debris_hazard.webp" class="image-float-right" width=30%>
 

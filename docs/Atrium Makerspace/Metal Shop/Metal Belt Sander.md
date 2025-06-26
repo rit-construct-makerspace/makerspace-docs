@@ -18,6 +18,9 @@ A belt sander has a smaller table and is better suited to sanding flat profiles.
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 

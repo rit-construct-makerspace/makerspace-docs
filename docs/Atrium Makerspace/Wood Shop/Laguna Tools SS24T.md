@@ -16,6 +16,9 @@ The sanding drum can be tilted up to 45 degrees to allow for chamfering / beveli
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Tangle Hazard"
     <img src="..\assets\tangle_hazard.webp" class="image-float-right" width=30%>
 

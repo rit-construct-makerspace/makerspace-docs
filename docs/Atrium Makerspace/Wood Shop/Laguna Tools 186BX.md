@@ -17,6 +17,9 @@ The band saw is driven by large wheels. Upon stopping the machine, a foot brake 
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 

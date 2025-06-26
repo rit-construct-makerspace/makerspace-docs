@@ -14,6 +14,22 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
+=== "Debris Hazard"
+    <img src="..\assets\debris_hazard.webp" class="image-float-right" width=30%>
+
+    Safety glasses mandatory.
+
+    Do not make any cuts smaller than 6".
+
+    Do not cut thin, splintering material.
+
+    Do not cut PVC or other frangible plastic.
+
+    <p class = "clear-float"></p>
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 
@@ -35,19 +51,6 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
     Tie up and tuck in long hair
 
     Remove lanyards, jewelry, gloves, etc.
-
-    <p class = "clear-float"></p>
-
-=== "Debris Hazard"
-    <img src="..\assets\debris_hazard.webp" class="image-float-right" width=30%>
-
-    Safety glasses mandatory.
-
-    Do not make any cuts smaller than 6".
-
-    Do not cut thin, splintering material.
-
-    Do not cut PVC or other frangible plastic.
 
     <p class = "clear-float"></p>
 

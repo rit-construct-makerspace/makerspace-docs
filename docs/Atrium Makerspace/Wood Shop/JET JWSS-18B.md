@@ -17,6 +17,9 @@ The scroll saw is operated via foot pedal to control speed of the blade.
 
 ## Safety Notices
 
+!!! note
+    **PLEASE READ ALL SAFETY NOTICES BEFORE CONTINUING**
+
 === "Cut Hazard"
     <img src="..\assets\cut_hazard.webp" class="image-float-right" width=30%>
 
@@ -70,7 +73,7 @@ blade holder knob.
 release guide.
 5. Guide blade up through table slot and push
 blade holder into lower blade chuck (E).
-
+~
 <img src="..\assets\scroll_saw\blade_install_2.png" class="image-float-right" width=40%>
 
 6. Push top end of blade into upper guide (F),
