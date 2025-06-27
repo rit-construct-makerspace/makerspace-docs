@@ -17,11 +17,3 @@ Due to the advanced nature of this equipment, this machine is only run by Makers
 3. Drop off your material
 4. We will inform you of the cost and if it is within budget, we will add your cut to the queue
 5. You'll receive an email once your job is complete
-
-<div class="grid" markdown>
-
-[Fusion CAM Tutorial](https://www.autodesk.com/learn/ondemand/course/cam-lathe){:target="_blank" .md-button}
-
-[Speeds and Feeds - FSWizard](https://app.fswizard.com/){:target="_blank" .md-button}
-
-</div>
