@@ -1,0 +1,29 @@
+.md-content img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: orange;
+    outline-width: 3px;
+    outline-style: solid;
+    outline-color: darkorange;
+  }
+
+  /* Maximum space for text block */
+.md-grid {
+  max-width: 100%; /* or 100%, if you want to stretch to full-width */
+}
+
+.image-float-right {
+  float: right;
+  margin-left: 20px; /* Adjust spacing as needed */
+  margin-bottom: 20px; /* Adjust spacing as needed */
+}
+
+.image-float-left {
+  float: left;
+  margin-right: 20px; /* Adjust spacing as needed */
+  margin-bottom: 20px; /* Adjust spacing as needed */
+}
+
+.clear-float {
+  clear: both;
+}
