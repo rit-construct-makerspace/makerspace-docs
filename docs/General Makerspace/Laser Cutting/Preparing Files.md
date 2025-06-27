@@ -1,5 +1,13 @@
 # Preparing Files
 
+<div class="grid" markdown>
+
+[Using the Epilog Software](./Software.md){:target="_blank" .md-button}
+
+[Operating the Machines](./Operating.md){:target="_blank" .md-button}
+
+</div>
+
 ## Process Type: Raster
 Raster is one of two ways to run a laser cutter. 
 

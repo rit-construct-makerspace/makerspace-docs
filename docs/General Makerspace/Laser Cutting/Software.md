@@ -1,5 +1,13 @@
 # Epilog Software
 
+<div class="grid" markdown>
+
+[Preparing the Files](./Preparing%20Files.md){target="blank" .md-button}
+
+[Operating the Machines](./Operating.md){:target="_blank" .md-button}
+
+</div>
+
 This training goes over Epilog Dashboard, the software we use to run the laser cutters in the SHED. 
 
 This software is available on the computer attached next to each laser. These are public computers, if they are logged out, use the password “SHEDLaser” to unlock them. You will have to insert your ID into the ACS to unlock the keyboard and mouse before use. 

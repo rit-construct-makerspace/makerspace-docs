@@ -1,5 +1,13 @@
 # Operating the Epilog Laser
 
+<div class="grid" markdown>
+
+[Preparing the Files](./Preparing%20Files.md){target="blank" .md-button}
+
+[Using the Epilog Software](./Software.md){:target="_blank" .md-button}
+
+</div>
+
 This page will walk you through preparing the laser cutter to execute a cut. By now, you should have prepared and printed your file from the computer. See the training below for more details on this.
 
 ## Epilog Laser Interface Guide
