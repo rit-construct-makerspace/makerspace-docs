@@ -2,9 +2,11 @@
 
 <img src="../assets/omax/micromax.jpg" class="image-float-right" width=40%>
 
-The OMAX MicroMax is an abrasive waterjet that is capable of cutting through almost any material, up to 2 inches thick.
+The OMAX MicroMax is an abrasive waterjet that is capable of cutting through almost any material, up to 2 inches thick. The effective cutting area is 23" square. While the machine can accomodate stock up to 2ft square, you need to include area for clamping.
 
 As this machine is a job shop machine, we charge $1 per minute of cut time to cover the cost of the abrasive.
+
+<img src="../assets/omax/cutting_data.png" class="image-float-left" width=30%>
 
 <p class = "clear-float"></p>
 
