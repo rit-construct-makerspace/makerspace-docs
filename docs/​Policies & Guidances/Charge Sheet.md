@@ -1,4 +1,4 @@
-# SHED Makerspace Rate Sheet
+# Rate Sheet
 
 The makerspace provides the tools and experience to help the RIT community create. There are processes that have a consumable cost which are captured below. These rates are only used to recover the material, not the aggregate cost of service.
 
