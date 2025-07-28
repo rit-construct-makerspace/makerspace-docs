@@ -49,6 +49,10 @@ copyright: RIT SHED Makerspace
 extra_css:
   - stylesheets/extra.css
 
+plugins:
+  - search
+  - git-revision-date-localized
+
 extra:
   annotate:
     json: [.s2]
