@@ -75,19 +75,19 @@ In order to keep everything contained, the router exists below a throat plate (r
 
 ### Changing Bits
 
-<img src="../assets/router/clamp_collet.jpg" class="image-float-right" width=20%>
+<img src="../assets/router/tighten_collet.png" class="image-float-right" width=20%>
 
-<img src="../assets/router/check_collet.jpg" class="image-float-right" width=20%>
+<img src="../assets/router/loosen_collet.png" class="image-float-right" width=20%>
 
-Once the table has been raised, you can see the collet and nut that hold the router bit in. This router operates similar to a dremel, where a pin holds the spindle, while a wrench can be used to loosen / tighten.
+Once the table has been raised, you can see the collet and nut that hold the router bit in. This router uses two wrenches to loosen and tighten the collet.
 
 1. Remove the throat plate and raise the router
-2. Index spindle to where the button stops the rotation
-3. Using the other end of the spanner wrench, loosen the collet nut on the router
+2. Place 16mm wrench on flats underneath collet.
+3. Using the other end of the spanner wrench or the 24mm wrench, loosen the collet nut on the router by moving the wrenches away from each other (left image)
 4. Check the shank of the new router bit against the collet
-    - There is a reducer sleeve for 1/4" shanks, and we have both 1/2" and 1/4" 
+    - There is a separate nut and collet for 1/2" or 1/4"
 5. Remove the previous bit and install the new bit
-6. Holding the button, tighten the collet nut on the new bit. **DO NOT OVERTIGHTEN**
+6. Holding the 16mm wrench, tighten the collet nut on the new bit by bringing the wrenches together (right image). **DO NOT OVERTIGHTEN**
     - It should be snugged up, and then 1/8 turn to finish
 
 <p class = "clear-float"></p>
