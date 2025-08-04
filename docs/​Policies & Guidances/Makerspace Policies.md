@@ -217,7 +217,7 @@ While the makerspace makes every effort to ensure equipment, tools, resources, e
 
 ## Access to Spaces
 
-All makerspaces are available to all [makers](#permitted-users) when designated as open by staff. The official open hours the makerspaces can be found at [make.rit.edu](https://make.rit.edu), but it is at the discretion of staff in that moment if a makerspace is opened or closed.
+All makerspaces are available to all [makers](#permitted-users) when designated as open by staff. The official open hours the makerspaces can be found at [make.rit.edu](https://make.rit.edu), but it is at the discretion of on-duty staff in that moment if a makerspace is opened or closed.
 
 Makerspaces are closed in observance of university holidays, snow days, and other such events that result in a university closure.
 

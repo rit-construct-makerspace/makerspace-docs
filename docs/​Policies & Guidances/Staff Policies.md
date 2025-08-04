@@ -4,11 +4,13 @@ The following document describes policies and expectations of staff of the maker
 
 For the purposes of this document, staff are defined as student employees, employed by the RIT makerspaces in an official capacity to supervise, assist, oversee, or otherwise manage the use of the makerspace, including the facility itself as well as the equipment, tools, resources, materials, consumables, etc. contained within. 
 
+A staff is considered "on-duty" if they are currently clocked in and executing their assigned duties in their assigned makerspace(s). A staff is otherwise considered "off-duty".
+
 ## Duty to Act
 
-Makerspace staff, when on duty or on shift and in their assigned spaces, are expected to act in accordance with all policies found in this document.
+Makerspace staff, when on-duty and in their assigned spaces, are expected to act in accordance with all policies found in this document.
 
-Staff, when present in their assigned spaces but not on duty, are empowered to act solely to address imminent health and safety concerns, at their discretion.
+Staff, when present in their assigned spaces but off-duty, are empowered to act solely to address imminent health and safety concerns, at their discretion.
 
 ## Responsibilities
 
@@ -16,13 +18,13 @@ Staff, when present in their assigned spaces but not on duty, are empowered to a
 
 Staff are expected, within one month of their hiring or assignment to a space, whichever is first, to be competent in the safe and proper use of all equipment within their assigned, except for so-designated "complex equipment" for which training and operation is generally overseen by specialized staff.
 
-Staff may use their time on shift to develop and maintain their competency with equipment, in accordance with [On Shift Permitted Personal Actions](#on-shift-permitted-personal-actions).
+Staff may use their time on-duty to develop and maintain their competency with equipment, in accordance with [On Shift Permitted Personal Actions](#on-shift-permitted-personal-actions).
 
-### On Shift Permitted Personal Actions
+### On-Duty Permitted Personal Actions
 
-While on shift, staff are not permitted to work on homework, course work, club projects, or any other assigned or volunteered work for any entity other than the makerspace.
+While on-duty, staff are not permitted to work on homework, course work, club projects, or any other assigned or volunteered work for any entity other than the makerspace.
 
-Staff can work on personal projects that utilize makerspace resources, either for a permitted project type or for personal competency development, so long as it does not interfere with the ability to properly supervise the shop. For instance, if there are other staff on shift or there is no other makers in the space and you can see the front desk at all times. Working on personal projects should be the lowest priority of staff, and only done if there is no other work to complete in the space.
+Staff can work on personal projects that utilize makerspace resources, either for a permitted project type or for personal competency development, so long as it does not interfere with the ability to properly supervise the shop. For instance, if there are other staff on-duty or there is no other makers in the space and you can see the front desk at all times. Working on personal projects should be the lowest priority of staff, and only done if there is no other work to complete in the space.
 
 ### Atrium Makerspace Mentors
 
@@ -38,10 +40,10 @@ When people are operating the lasers, Staff are to be checking in on the cut, es
 
 ## Staff Privileges
 
-Staff have no privileges beyond a normal maker when using the makerspaces not in their capacity as a staff, except for the following;
+Staff have no privileges beyond a normal maker when using the makerspaces not on-duty, except for the following;
 
 * Staff may access some 3D printing and other paid consumables at a discounted rate
-* Staff may use the makerspace(s) they are assigned to outside of open hours, if they are accompanied by at least one other maker to act as a buddy. This access us only permitted within the building's hours, if the makerspace is in a building that is not open 24/7. 
+* Staff may use the makerspace(s) they are assigned to outside of open hours, if they are accompanied by at least one other maker to act as a buddy. This access is only permitted within the building's hours, if the makerspace is in a building that is not open 24/7. 
 
 Staff may not use their elevated permissions or access to internal systems as a way to gain access to equipment or resources without going through the normal training procedures.
 
