@@ -18,7 +18,7 @@ Staff, when present in their assigned spaces but off-duty, are empowered to act 
 
 Staff are expected, within one month of their hiring or assignment to a space, whichever is first, to be competent in the safe and proper use of all equipment within their assigned, except for so-designated "complex equipment" for which training and operation is generally overseen by specialized staff.
 
-Staff may use their time on-duty to develop and maintain their competency with equipment, in accordance with [On Shift Permitted Personal Actions](#on-shift-permitted-personal-actions).
+Staff may use their time on-duty to develop and maintain their competency with equipment, in accordance with [On Shift Permitted Personal Actions](#on-duty-permitted-personal-actions).
 
 ### On-Duty Permitted Personal Actions
 

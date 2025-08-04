@@ -92,8 +92,6 @@ To understand specific-area PPE requirements, see [Makerspace-Specific Policies]
 
 ## Animals
 
-For the purposes of makerspace policies, "animals" is defined by [7 USC § 136(d)](https://www.law.cornell.edu/uscode/text/7/136#d)
-
 No project in the makerspace may result, either through its execution or with the end-result, in the injury, death, or otherwise harm of an animal or animals.
 
 Animals are not permitted in any makerspace, except for a Service Animal as defined by RIT Policy [C13.0 Service or Assistance Animal Policy](https://www.rit.edu/policies/c130) and approved by the RIT Disability Services Office.
