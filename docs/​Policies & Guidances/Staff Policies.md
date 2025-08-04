@@ -57,6 +57,8 @@ When a fire, whether in the space, in the building, or a drill/false-alarm, occu
 
 * If the fire is visible and the fire alarm has not been activated yet, it is the responsibility of the staff to activate the fire alarm and follow the posted routes to exit the building as soon as possible.
 
+Small flare-up fires within some equipment, such as laser cutters, are expected and normal as part of their operation. Such fires should be dealt with as described in the specific policies of that makerspace or equipment. 
+
 ### Injury
 
 If an injury occurs with a maker, follow the emergency response boards on the walls posted in each area. Depending on the severity, Public Safety is to be notified (*anything more than a papercut*), as well as an incident report is to be filled out within 24 hours of the incident.

@@ -1,15 +1,10 @@
----
-hide:
-  - navigation
----
-
 # Makerspace Policies
 
 The following policies apply to all users of all makerspaces, including the facilities themselves and all materials, equipment, tools, and similar contained within, at the Rochester Institute of Technology (RIT) or accessed virtually. 
 
 ## Honor Code
 
-All persons in any makerspace and/or utilizing makerspace resources in-person or electronically is expected to abide by the [RIT Honor Code P3.0](https://www.rit.edu/policies/p030) as well as the Makerspace Code of Conduct (LINK TODO).
+All persons in any makerspace and/or utilizing makerspace resources in-person or electronically is expected to abide by the [RIT Honor Code P3.0](https://www.rit.edu/policies/p030) as well as the [Makerspace Code of Conduct](./Makerspace%20Code%20of%20Conduct.md).
 
 ## Permitted Users
 
