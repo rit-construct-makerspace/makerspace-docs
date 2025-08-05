@@ -213,6 +213,16 @@ The makerspace assumes no liability for damage, theft, or loss of abandoned prop
 
 While the makerspace makes every effort to ensure equipment, tools, resources, etc. are in good and working order, the makerspace assumes no liability for damages to property that result from use of said property in a project at the makerspace.
 
+It is the responsibility of each maker to ensure their project is completed to their satisfaction when using equipment they personally operate. Furthermore, it is the responsibility of the maker to ensure equipment is in expected working order before beginning work. This includes performing test cuts/engraves/drills/etc. with the equipment on a similar piece of material, to ensure expected results. 
+
+For equipment operated by a maker in tandem with trained staff, such as a CNC machine, it is the responsibility of the maker to observe and provide feedback to the staff as work is ongoing to ensure it is completed to their satisfaction.
+
+For equipment that is operated by staff exclusively, such as 3D printers, it is the responsibility of the maker to ensure their design complies with any guidance from the makerspace regarding preparation of design and files for successful manufacturing. If deviating from these standards, the maker assumes all responsibility for costs associated with failures in manufacturing, potentially including damages to the equipment. 
+
+For self-service 3D printing specifically, where the maker is submitting a ready-to-manufacture machine file, such as GCODE or similar, refunds or complimentary re-prints will only be provided if the failure is judged by staff to be caused solely by a failure of the equipment. 
+
+For full-service 3D printing, where the maker submits a file representing the finished part but staff ultimately handle all aspects of preparing the file for manufacturing, any print failures are the responsibility of the makerspace and will be re-printed free-of-charge to the maker, so long as the design's intent, geometry, and similar is judged to be feasible to produce within the practical limits of the equipment. 
+
 ## Access to Spaces
 
 All makerspaces are available to all [makers](#permitted-users) when designated as open by staff. The official open hours the makerspaces can be found at [make.rit.edu](https://make.rit.edu), but it is at the discretion of on-duty staff in that moment if a makerspace is opened or closed.
