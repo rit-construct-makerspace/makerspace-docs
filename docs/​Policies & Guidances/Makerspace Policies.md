@@ -205,9 +205,29 @@ The makerspace makes no guarantee regarding the safety or security of projects l
 
 Property is considered abandoned if it has been left in a makerspace outside of a designated [Project Storage space](#project-storage) after the person(s) who brought it into the makerspace have left, or is stored in Project Storage in violation of the Project Storage requirements.
 
-Abandoned property may be moved to a different area of the makerspace, removed from the makerspace to a designated lost & found location on campus, or disposed of in accordance with applicable laws. Makers may he charged the reasonable cost associated with the removal and proper disposal of abandoned property. 
+Abandoned property may be moved to a different area of the makerspace, removed from the makerspace to a designated lost & found location on campus, or disposed of in accordance with applicable policies and laws. Makers may he charged the reasonable cost associated with the removal and proper disposal of abandoned property. 
 
 The makerspace assumes no liability for damage, theft, or loss of abandoned property.
+
+## Scrap, Recyclable, Waste, and Unwanted Materials
+
+The following policies for scrap, recyclable, waste, and unwanted materials do not supersede any RIT policies or applicable laws regarding the safe and proper disposal of materials. Any hazardous materials, such as chemical waste, batteries, radioactive materials, bodily fluids, etc. must be disposed of in accordance with RIT policies.
+
+Through the course of working on a project in the makerspace, it is normal and expected to generate an amount of unwanted material. Examples include, but are not limited to, off-cuts of wood, metal chips from machining, failed 3D prints, etc. Such material must be properly disposed of in the designated locations within the makerspace or at RIT. When disposing of materials, it is the responsibility of the maker to determine if their unwanted materials qualify as scrap, recyclables, or waste, and dispose of them properly. If material falls into more than one category, scrap designation takes priority over others, and recyclables designation takes priority over waste.
+
+Any material that has become contaminated with food, bodily fluids, potentially hazardous chemicals, or have a coating or otherwise combination with another material that hinders their re-use as scrap or recyclables must be discarded as waste.
+
+Each makerspace has policies regarding what the threshold for scrap material is. Scrap material is defined as unwanted material that is substantial enough to be repurposed by other makers on future projects, and as such the makerspace collects and makes such material available to other makers at no charge. Makerspaces generally define the threshold for scrap based on physical size and material composition. See [makerspace-specific policies](#makerspace-specific-policies) for specific scrap policies.
+
+Some makerspaces have specific recycling policies for certain materials, such as 3D printer waste or metal chips. Such waste material is collected in designated collection containers, and may have restrictions or sorting requirements. See [makerspace-specific policies](#makerspace-specific-policies) for specific recycling policies.
+
+Material that does not meet the definition of scrap or recyclables, or have become contaminated such that it cannot be used as scrap or recyclables are considered waste. Waste must be disposed of in a designated garbage can, waste disposal unit, or similar in accordance with RIT policies regarding recyclables and waste disposal. Such disposal cannot fill more than 25% of the empty volume of the container, and must fully fit within the container. If the waste material does not meet this criteria, it is the responsibility of the maker to reduce the size of the waste and/or find a larger disposal container to properly and safely dispose of their waste. 
+
+Materials discarded in the makerspace in a designated scrap, waste, or recycling container are no longer the property of the maker and are free to be used by any other maker in the makerspace. Makers cannot specifically reserve materials found in one of these designated containers, and are available on a first-come-first-serve, no-guarantee basis.
+
+Over-production of an item, failed copies of an item being manufactured by staff for a maker, and abandoned property will all be processed by these policies when being disposed.
+
+When using scrap or recyclables in the course of a project, it is the responsibility of the maker to ensure that the remaining material still meets the criteria that it was originally categorized under. If it does not, it is the responsibility of the maker to re-classify and properly relocate the remaining material in accordance with above policies.
 
 ## Project Losses and Damage
 
