@@ -235,7 +235,7 @@ While the makerspace makes every effort to ensure equipment, tools, resources, e
 
 It is the responsibility of each maker to ensure their project is completed to their satisfaction when using equipment they personally operate. Furthermore, it is the responsibility of the maker to ensure equipment is in expected working order before beginning work. This includes performing test cuts/engraves/drills/etc. with the equipment on a similar piece of material, to ensure expected results. 
 
-For equipment operated by a maker in tandem with trained staff, such as a CNC machine, it is the responsibility of the maker to observe and provide feedback to the staff as work is ongoing to ensure it is completed to their satisfaction.
+For equipment operated by a maker in tandem with trained staff, such as a CNC machine, it is the responsibility of the maker to observe and provide feedback to the staff as work is ongoing to ensure it is completed to their satisfaction, within the practical limitations of the equipment.
 
 For equipment that is operated by staff exclusively, such as 3D printers, it is the responsibility of the maker to ensure their design complies with any guidance from the makerspace regarding preparation of design and files for successful manufacturing. If deviating from these standards, the maker assumes all responsibility for costs associated with failures in manufacturing, potentially including damages to the equipment. 
 
