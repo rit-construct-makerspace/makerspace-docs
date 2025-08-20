@@ -41,7 +41,7 @@ The following equipment can be found in the Atrium Makerspace:
 * [Rotary Tool Sanding Station](./Wood%20Shop%20Machines/Rotary%20Sanding%20Station.md)
 * [Table Saw - SawStop Cabinet Saw](./Wood%20Shop%20Machines/SawStop%20Cabinet%20Saw.md)
 * [Router Table - SawStop Router](./Wood%20Shop%20Machines/SawStop%20Router%20Table.md)
-* DeWalt Power Tools - Drill, Saw, Nailer, etc.
+* DeWalt Power Tools - Drill, Saw, Nailer, Palm Sander, etc.
 * Hand Tools - Saws, files, sandpaper, hammers, etc.
 * Measurement Tools - Chalk line, tape measure, spirit level, etc.
 
@@ -59,5 +59,5 @@ The following equipment can be found in the Atrium Makerspace:
 * [CNC Lathe - Haas ST-10](./South%20Shop%20Machines/HAAS%20ST-10.md)
 * [CNC Mill - Haas TM-1P](./South%20Shop%20Machines/HAAS%20TM-1P.md)
 * [5th Axis Waterjet - OMAX MicroMax](./South%20Shop%20Machines/OMAX%20MicroMax.md)
-* [MIG/TIG Welding Benches - Miller Multimatic 220](./South%20Shop%20Machines/Miller%20Multimatic%20220.md)]
+* [MIG/TIG Welding Benches - Miller Multimatic 220](./South%20Shop%20Machines/Miller%20Multimatic%20220.md)
 * Machine tools, such as drills, endmills, turning tools, etc. for use with machines in the shop.
