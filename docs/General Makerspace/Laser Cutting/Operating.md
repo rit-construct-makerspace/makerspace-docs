@@ -54,7 +54,10 @@ The “Centering Point” command can be used to say where a laser cut should st
 The “Park Axis” button returns the axes to the park position, usually the top left corner.
 
 The “Auto Focus” button moves the head down in its current position to find the material. 
-This feature is not available on the Fusion Pro machine, even though the button is there!
+
+**This feature is not available on the Fusion Pro machine, even though the button is there!**
+
+For setting the focus on the Fusion Pro, set the mode to thickness and input the measured [material thickness](https://docs.make.rit.edu/General%20Makerspace/Laser%20Cutting/Software/#auto-focus).
  
 <p class = "clear-float"></p>
 
