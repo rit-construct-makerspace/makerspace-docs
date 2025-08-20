@@ -5,7 +5,7 @@
 [3DPrinterOS (RIT SSO Link)](https://cloud.3dprinteros.com/ssosaml/rit/auth){:target="_blank" .md-button}
 
 !!! warning
-    <img src="..\assets\3dprinteros SSO.png" class="image-float-right" width=20%>
+    <img src="../assets/3dprinteros SSO.png" class="image-float-right" width=20%>
     You **must** access the printers via SSO (single sign-on) with your RIT account. Do so at the link above, or on the 3DPrinterOS login page, hit "SSO" and select "Rochester Institute of Technology" from the list.
 
     Creating an account any other way, or using a standard 3DPrinterOS account, will not work. Even if it uses your RIT email address! Attempting to bypass SSO requirements will break the system and you will not be able to access 3D printers.
@@ -39,7 +39,7 @@ The projects page is also where you prepare files for 3D printing, see [3D Model
 
 The activity page shows all your past activity on 3DPrinterOS. Submitted prints will be shown here, as well as their status (success, failure, in progress). You can click on a print to get more information. 
 
-By hitting the "..." menu to the right of a job, you can also restart it, see details (same as clicking) or view any notes from staff on your 3D print. 
+By hitting the "..." menu to the right of a job, you can cancel the print (if it has not yet started), restart it, see details (same as clicking) or view any notes from staff on your 3D print. 
 
 <img src="../assets/3dprinteros activity.png" class="image-float-left" width=100%>
 
@@ -164,7 +164,7 @@ You are now presented with a list of all self-serve print queues. If you see "Th
 
 Queues are sorted by color and material. To make sure you are printing to the right queue, match the printer type at the top of the screen to the printer type listed on each queue. 
 
-A queue time is next to each option, this is how long the prints ahead of you in queue are. Any option with no options mean your print will start immediately.
+A queue time is next to each option, this is how long the prints ahead of you in queue are. Any option with no time means there is no queue and your print will start immediately.
 
 If you do not care what color your print is, you can select "Any Color" to be routed to the next available color.
 
