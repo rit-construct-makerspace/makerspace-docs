@@ -74,7 +74,7 @@ No person may enter any makerspace if the clothing they are wearing does not sat
 
 * **Bags**: Backpacks, purses, fanny packs, and other similar carrying containers must be removed and stored away from any rotating, spinning, or moving equipment.
 
-* **Long Hair**: Hair that generally falls below the shoulder should be tied up or otherwise secured in a way that prevents it from being tangled.
+* **Long Hair**: Hair that generally falls below the shoulder should be tied up or otherwise secured in a way that prevents it from being tangled when in an area that has equipment with moving or spinning parts, even if such equipment is not currently running.
 
 * **Loose Clothing**: Loose and/or baggy clothing is a risk of entanglement and must be secured or removed.
 
@@ -88,7 +88,19 @@ Policies regarding dress standards are superseded by [Personal Protective Equipm
 
 It is the responsibility of makers to understand the required Personal Protective Equipment (PPE) for operating or being within proximity of a tool, space, piece of equipment, or similar. Any such PPE required is provided at no expense by the makerspace to all makers. Re-usable PPE, such as glasses and helmets, are provided in spaces and areas where they are required. Such PPE is expected to be returned in a clean and functional state upon exiting that space or area.
 
+**Safety Glasses** must be worn in any area where equipment that forms chips, shards, debris, or similar is in use. They must also be worn in spaces with signage stating that safety glasses are required, even if there is no equipment currently in use.
+
 To understand specific-area PPE requirements, see [Makerspace-Specific Policies](#makerspace-specific-policies)
+
+## Food & Drink
+
+Eating is prohibited in all makerspaces. Drinking water from resealable containers is permitted. 
+
+Food and non-water drinks in sealed containers can be in the makerspace, but cannot be opened inside the makerspaces.
+
+Food and drinks in non-sealable containers must be left outside the makerspace, or at designated areas for food and drink near the entrance to the makerspace.
+
+Alcohol is not permitted in any makerspaces.
 
 ## Animals
 
@@ -100,7 +112,7 @@ Animals are not permitted in any makerspace, except for a Service Animal as defi
 
 It is the responsibility of the maker to ensure all materials they are bringing in to the makerspace are compliant with the following requirements. 
 
-At any time, staff may request a Material Safety Data Sheet (MSDS) from a maker, who must immediately produce it.
+At any time, staff may request a Material Safety Data Sheet (MSDS) from a maker, who must immediately produce it. 
 
 ### Prohibited Wood
 
@@ -167,6 +179,8 @@ Furthermore, staff can restrict any material deemed a hazard to health or safety
 Makers must use equipment, which includes all tools, machinery, resources, consumables, and similar in a safe and proper way, as described in the applicable equipment training and documentation. 
 
 Makers must complete all relevant mandated trainings and safety instructional content before attempting to use a piece of equipment. This includes trainings mandated by the makerspace as well as trainings mandated by RIT's office of Environmental Health and Safety. 
+
+Unless otherwise stated, trainings expire annually and must be renewed for continued access to relevant equipment.
 
 ### Equipment Damage
 

@@ -54,8 +54,8 @@ One of the most common failures we see with parts exported from CAD is that ther
 
 ## Using Inkscape to Prepare Files
 
-<object data="..\assets\preparing\laser-demo-file.pdf" type="application/pdf" width="30%" height="300px" class="image-float-left">
-    <embed src="..\assets\preparing\laser-demo-file.pdf">
+<object data=".\assets\preparing\laser-demo-file.pdf" type="application/pdf" width="30%" height="300px" class="image-float-left">
+    <embed src=".\assets\preparing\laser-demo-file.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="..\assets\preparing\laser-demo-file.pdf">Download PDF</a>.</p>
     </embed>
 </object>

@@ -1,8 +1,8 @@
 # Atrium Makerspace Policies
 
-This page contains policies specific to the Atrium Makerspace. These policies apply in addition to the all-makerspace policies.
+This page contains policies specific to the Atrium Makerspace. These policies apply in addition to, but do not supersede, all other makerspace policies.
 
-To access the all-makerspace policies, [click here](../Policies%20&%20Guidances/Makerspace%20Policies.md).
+To access the other makerspace policies, [click here](/​Policies%20&%20Guidances/Makerspace%20Policies.md).
 
 ## General Space
 
