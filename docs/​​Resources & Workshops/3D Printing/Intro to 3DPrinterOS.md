@@ -5,7 +5,7 @@
 [3DPrinterOS (RIT SSO Link)](https://cloud.3dprinteros.com/ssosaml/rit/auth){:target="_blank" .md-button}
 
 !!! warning
-    <img src="../assets/3dprinteros SSO.png" class="image-float-right" width=20%>
+    <img src="../assets/3DPrinterOS SSO.png" class="image-float-right" width=20%>
     You **must** access the printers via SSO (single sign-on) with your RIT account. Do so at the link above, or on the 3DPrinterOS login page, hit "SSO" and select "Rochester Institute of Technology" from the list.
 
     Creating an account any other way, or using a standard 3DPrinterOS account, will not work. Even if it uses your RIT email address! Attempting to bypass SSO requirements will break the system and you will not be able to access 3D printers.
@@ -134,7 +134,7 @@ The **Slicing Profile** option should only be changed if you are told to use a d
 We recommend printing with the default settings. If you are happy with these settings, hit "Slice" to create your GCODE file, and you can move on to [Submit GCODE for Self-Serve](#submit-gcode-for-self-serve) below. 
 
 !!! danger
-    Changing settings from their defaults are permitted, but you do so at your own risk! If your print fails due to modified settings, you may not be refunded, and you may be responsible for damage caused to the printers.
+    Changing settings from their defaults is permitted, but you do so at your own risk! If your print fails due to modified settings, you may not be refunded, and you may be responsible for damage caused to the printers.
 
 <p class = "clear-float"></p>
 
