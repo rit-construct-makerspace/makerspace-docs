@@ -69,6 +69,8 @@ Cutting tools for textiles, such as shears, fabric scissors, and rotary fabric t
 
 In order to maintain the sharpness of these tools, makers are not permitted to use such designated tools for cutting other materials. This includes, but is not limited to, cardboard, paper, plastic sheeting, foam, etc. 
 
+Thicker textiles materials, like leather, or much stronger materials, like kevlar fabric, should only be cut with tools specifically intended for that material. 
+
 ### Modifications to Sewing Equipment
 
 Any modification to sewing equipment that requires the maker to be in direct contact with or in immediate proximity to moving components of the equipment must be performed with the machine powered down or in a locked-out state. Examples of such modifications include changing needles, loading thread, changing presser feet, or unjamming thread jams. 
