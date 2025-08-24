@@ -107,6 +107,9 @@ Once you have rotated a model, you can check how much support material it will n
 
 <p class = "clear-float"></p>
 
+!!! tip
+    To give your print the best chance of success, you want to both elimiate support, and maximize how much of the print touches the bed of the machine. Try to orient your part to be like as pyramid-like as possible - a large, flat, base that tapers up into the air. 
+
 ### Saving
 
 Once you are happy with the scale and rotation of the part, it is recommended to hit "On bed" and "Center" one more time, then you can save it with the "Save" button. 
@@ -171,6 +174,9 @@ If you do not care what color your print is, you can select "Any Color" to be ro
 Once you choose a printer, hit "**Queue**" (not "Print"!) and answer any questions the system asks. Your print is now in queue to be printed! Keep an eye on your email for more information and to track progress. You can also see print process in the [Activity Page](#activity).
 
 <p class = "clear-float"></p>
+
+!!! note
+    Once your print completes, you will receive an email telling you it is ready for pick up. Make sure you pick up your print within 4 business days, or it may be recycled! Self-Serve prints are picked up from the **General Makerspace** on the first floor of the SHED, when the space is open.
 
 ## Submit STLs for Full-Serve
 
