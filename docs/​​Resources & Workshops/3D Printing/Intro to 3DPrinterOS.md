@@ -108,7 +108,7 @@ Once you have rotated a model, you can check how much support material it will n
 <p class = "clear-float"></p>
 
 !!! tip
-    To give your print the best chance of success, you want to both elimiate support, and maximize how much of the print touches the bed of the machine. Try to orient your part to be like as pyramid-like as possible - a large, flat, base that tapers up into the air. 
+    To give your print the best chance of success, you want to both minimize the need for support, and maximize how much of the print touches the bed of the machine. Try to orient your part to be as pyramid-like as possible - a large, flat, base that tapers up into the air. 
 
 ### Saving
 
