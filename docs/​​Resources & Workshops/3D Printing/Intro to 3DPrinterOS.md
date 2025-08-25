@@ -189,4 +189,6 @@ For more advanced 3D printers, you submit an STL file instead of GCODE file. Onc
 
 Select the material you want and hit the "**Queue**" button. Fill out the questions that follow to submit your print. Keep an eye on your email, staff will be in contact to confirm pricing and give an estimate lead time. 
 
+When your print completes, it can be picked up from the **Atrium Makerspace** any time the space is open.
+
 <p class = "clear-float"></p>
