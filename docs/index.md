@@ -8,11 +8,12 @@ To start, check out one of the following sections, or navigate using the top bar
 
 <div class="grid cards" markdown>
 
-- :material-file-document: [Makerspace Policies](./​Policies%20&%20Guidances/index.md)
 - :material-screw-machine-round-top: [Atrium Makerspace](./Atrium%20Makerspace/index.md)
 - :material-cog: [General Makerspace](./General%20Makerspace/index.md)
 - :material-soldering-iron: [Textiles & Electronics Makerspace](./Textiles%20&%20Electronics/index.md)
+- :material-file-document: [Makerspace Policies](./​Policies%20&%20Guidances/index.md)
 - :material-printer-3d-nozzle: [3DPrinterOS Tutorial](./​​Resources%20&%20Workshops/3D%20Printing/Intro%20to%203DPrinterOS.md)
+- :material-keyboard-return: [make.rit.edu Homepage](https://make.rit.edu/app)
 
 </div>
 
