@@ -47,6 +47,8 @@ All printers in the SHED are equipped with filament runout detectors, so there i
 3. When the Preheat menu appears, select the filament material and wait for the nozzle to reach the desired temperature. Once it heats up fully, it will push out a bit of material from the nozzle.
 4. The printer will ask if the color of the extruded filament is okay. Check if there is filament extruded from the nozzle, and select one of the options:
 
+For the Prusa Mk4, the only difference is you bring the filament down from the top of the machine and into the head.
+
 <img src="..\assets\prusa load filament.png" class="image-float-right" width=100%>
 
 <p class = "clear-float"></p>
