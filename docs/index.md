@@ -14,9 +14,12 @@ To start, check out one of the following sections, or navigate using the top bar
 - :material-file-document: [Makerspace Policies](./​Policies%20&%20Guidances/index.md)
 - :material-printer-3d-nozzle: [3DPrinterOS Tutorial](./​​Resources%20&%20Workshops/3D%20Printing/Intro%20to%203DPrinterOS.md)
 - :material-lock: [Access Control System Docs](https://acs.make.rit.edu/)
+- :material-slack: [Join our Slack server!](https://rit-makerspace.slack.com/)
+- :material-email-fast: [Email us: make@rit.edu](mailto:make@rit.edu)
+- :material-web: [Return to make.rit.edu](https://make.rit.edu/app)
 
 </div>
 
-## Contact US
+## Contact Us
 
 Questions? Feedback? Find a typo? Email us! make@rit.edu
