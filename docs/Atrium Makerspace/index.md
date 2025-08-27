@@ -1,8 +1,8 @@
 # Makerspace Overview
 
-Location: SHED A-Level
+Location: [SHED A350](https://maps.rit.edu/?details=Atrium+Makerspace)
 
-The Atrium Makerspace is home to a lot more advanced manufacturing machines, along with a Wood Shop and Metal Shop.
+The Atrium Makerspace is home to the makerspace's more advanced equipment. This includes industrial 3D printers, 2 metal shops, a wood shop, a paint booth, and a large open workspace.
 
 Specific policies related to the Atrium makerspace can be found [here](./Atrium%20Makerspace%20Policies.md).
 
