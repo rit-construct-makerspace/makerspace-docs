@@ -6,7 +6,7 @@ The HAAS TM-1P is a medium size CNC mill for cutting plastic, steel, and aluminu
 
 This equipment can be reserved by appointment only.
 
-[SHED Makerspace Calendar](){:target="_blank" .md-button}
+[SHED Makerspace Calendar](https://rit0.sharepoint.com/sites/shed-makerspace-internal/Lists/Paintbooth/Paint%20Booth%20Calendar.aspx){:target="_blank" .md-button}
 
 <p class = "clear-float"></p>
 
