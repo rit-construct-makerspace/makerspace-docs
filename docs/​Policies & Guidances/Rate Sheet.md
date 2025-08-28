@@ -7,7 +7,6 @@ Key:
 * Free* = Students required to be involved in the process, including being present during the process to understand how their parts are being created to become better engineers, designers, ect.
 * MNP = Material Not Provided
 
-(Updated 01.07.25)
 
 |Process                                                                                    |Student Rates                          |Research Rates                             |
 |-------------------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------|
