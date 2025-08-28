@@ -1,6 +1,6 @@
 # Maker Classroom
 
-**Location: [SHED 1330](https://maps.rit.edu/?details=General+Makerspace)**
+**Location: [SHED 1330](https://maps.rit.edu/?details=General+Makerspace){target="_blank"}**
 
 The Maker Classroom is an 18-seat computer lab available for all makers to use. Computers come equipped with many of the softwares you need to create and design. 
 
