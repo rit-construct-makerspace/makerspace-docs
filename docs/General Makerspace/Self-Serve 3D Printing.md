@@ -13,7 +13,7 @@ Some machines are additionally set up with PETG, a stronger plastic for engineer
 
 All 3D printers can be accessed through [3DPrinterOS](https://cloud.3dprinteros.com/ssosaml/rit/auth){:target="_blank"}.
 
-[Learn more about 3DPrinterOS](./Intro%20to%203DPrinterOS.md){:target="_blank" .md-button}
+[Learn more about 3DPrinterOS](../​​Resources%20&%20Workshops/3D%20Printing/Intro%20to%203DPrinterOS.md){:target="_blank" .md-button}
 
 <p class = "clear-float"></p>
 

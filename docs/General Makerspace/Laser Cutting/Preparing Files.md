@@ -54,9 +54,9 @@ One of the most common failures we see with parts exported from CAD is that ther
 
 ## Using Inkscape to Prepare Files
 
-<object data=".\assets\preparing\laser-demo-file.pdf" type="application/pdf" width="30%" height="300px" class="image-float-left">
-    <embed src=".\assets\preparing\laser-demo-file.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="..\assets\preparing\laser-demo-file.pdf">Download PDF</a>.</p>
+<object data="../assets/preparing/laser-demo-file.pdf" type="application/pdf" width="30%" height="300px" class="image-float-left">
+    <embed src="../assets/preparing/laser-demo-file.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/preparing/laser-demo-file.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -66,7 +66,7 @@ Inkscape, the software we will use to clean this file, is a free vector editor w
 
 <div class="grid" markdown>
 
-[Example File](..\assets\preparing\laser-demo-file.pdf){target="blank" .md-button}
+[Example File](../assets/preparing/laser-demo-file.pdf){target="blank" .md-button}
 
 [Inkscape Download](https://inkscape.org/en/release/){:target="_blank" .md-button}
 

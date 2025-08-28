@@ -62,7 +62,7 @@ For setting the focus on the Fusion Pro, set the mode to thickness and input the
 <p class = "clear-float"></p>
 
 ## File List
-<img src="..\assets\operating\file_list.webp" class="image-float-left" width=30%>
+<img src=".\assets\operating\file_list.webp" class="image-float-left" width=30%>
 
 The File List shows all files sent from the computer, newest at the top. Files are automatically deleted once cut, and/or when the machine is restarted.
 
