@@ -29,7 +29,7 @@ Key:
 | Clear Resin                                                                               | $0.20/ml                              | $0.25/ml                                  |
 | High Temp Resin                                                                           | $0.25/ml                              | $0.25/ml                                  |
 | **SLS Selective Laser Sintering**                                                         |                                       |                                           |
-| SLS Nylon 12                                                                              | $0.20/g                               | $0.25/g                                   |
+| SLS Nylon 12                                                                              | $0.13/g                               | $0.25/g                                   |
 |                                                                                           |                                       |                                           |
 |**Machining**                                                                              |                                       |                                           |
 | Metal Laser                                                                               | Free*, MNP                            | $1/min                                    |
