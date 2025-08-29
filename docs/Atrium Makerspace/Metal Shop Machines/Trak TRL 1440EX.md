@@ -136,6 +136,15 @@ The SHED offers workshops for in-person competency. During this workshop, you wi
 
 There is an option to complete this on your own, if you feel you are proficient at it. You will be supervised by a guide, there to answer any questions.
 
+## Common Stocked Inserts
+
+1. Steel Roughing: [CNMG431-HUM](https://www.haastooling.com/p/02-0135){target="_blank"}
+2. Steel Finishing: [VNMG331-HUM](https://www.haastooling.com/p/02-0163){target="_blank"}
+3. Aluminum Roughing: [CCGT431-HAL](https://www.haastooling.com/p/02-0343){target="_blank"}
+4. Aluminum Finishing: [VBGT332-HAL](https://www.haastooling.com/p/02-0351){target="_blank"}
+
+[Speeds and Feeds for Haas Tooling](../South%20Shop/assets/Turning%20Inserts,%20Speeds%20and%20Feeds.pdf){:target="blank" .md-button}
+
 ## Conversational Programming
 
 <iframe width="800" height="480" src="https://www.youtube.com/embed/_U171zoUgo0?si=VI_sQD6UTdPTkwO9&amp;start=830" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>

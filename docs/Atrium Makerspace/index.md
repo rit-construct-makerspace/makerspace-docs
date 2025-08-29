@@ -1,6 +1,6 @@
 # Makerspace Overview
 
-Location: [SHED A350](https://maps.rit.edu/?details=Atrium+Makerspace)
+**Location: [SHED A350](https://maps.rit.edu/?details=Atrium+Makerspace){target="_blank"}**
 
 The Atrium Makerspace is home to the makerspace's more advanced equipment. This includes industrial 3D printers, 2 metal shops, a wood shop, a paint booth, and a large open workspace.
 

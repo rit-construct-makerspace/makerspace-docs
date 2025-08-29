@@ -1,6 +1,6 @@
 # Makerspace Overview
 
-Location: [SHED 2360](https://maps.rit.edu/?details=Textiles+&+Electronics+Makerspace)
+**Location: [SHED 2360](https://maps.rit.edu/?details=Textiles+&+Electronics+Makerspace){target="_blank"}**
 
 The Textiles & Electronics Makerspace on the 2nd floor of the SHED has equipment, tools, and parts for electronics work, as well as textiles resources, including sewing, embroidery, and vinyl cutting equipment.
 
