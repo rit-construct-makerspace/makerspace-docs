@@ -108,6 +108,53 @@ No project in the makerspace may result, either through its execution or with th
 
 Animals are not permitted in any makerspace, except for a Service Animal as defined by RIT Policy [C13.0 Service or Assistance Animal Policy](https://www.rit.edu/policies/c130) and approved by the RIT Disability Services Office.
 
+## Payment & Refunds
+
+Within the makerspace, certain materials and processes are charged for. This includes, but is not limited to, 3D printing, material purchases from the store(s), water jetting, and more. 
+
+!!! info
+    See the [Rate Sheet](../​Policies%20&%20Guidances/Rate%20Sheet.md) for current prices of services and material used in providing services. See the [Storefront](https://make.rit.edu/app/storefront) for materials for-sale prices.
+
+All charge systems are in place to take from 2 sources; Construct Credits, and Tiger Bucks. Interdepartmental charges and journal entries are possible, but must be coordinated ahead of time by contacting make@rit.edu. 
+
+Construct Credits are issued by the makerspace for internal use in projects, classes, and events. When and how many Construct Credits are issued is at the discretion of the makerspace. Construct Credits can be used at a value equivalent to 1 US Dollar, and follow the same divisioning and naming schemes as US Dollars. Makers can inquire how many Construct Credits are associated with their account by emailing make@rit.edu.
+
+Tiger Bucks can be loaded via Atrium onto a student's account using Credit Card or Cash. The makerspace does not have any involvement in the loading, crediting, or otherwise management of Tiger Bucks. See [TigerSpend](https://tigerspend.rit.edu/) for more information on Tiger Bucks, to see your current Tiger Bucks balance, and for information on how to load Tiger Bucks. 
+
+When a user's balance is displayed, such as in 3DPrinterOS, it is displayed as the sum of Construct Credits and Tiger Bucks. Makerspace systems are not made immediately aware of changes to Tiger Bucks and Construct Credit balances that take place from other sources, such as loading more Tiger Bucks or paying for something else on campus with Tiger Bucks. As a result, an incorrect or outdated balance may appear on some areas of the Makerspace website, or other locations like 3DPrinterOS. Before a transaction is processed, the most up-to-date information is gathered from all systems. 
+
+The makerspace does not permit cashing out or transferring Construct Credits to other tenders, such as cash or Tiger Bucks.
+
+When a transaction occurs, the amount will be fully deducted from Construct Credits. If a maker's Construct Credit balance is insufficient to cover the transaction, the remainder will be deducted from Tiger Bucks. 
+
+Upon a transaction occurring, the maker will receive an email to their RIT-affiliated email address containing a receipt for the transaction, which includes the total, the reason for the charge, and how many Construct Credits remain, if any. 
+
+<img src="../assets/sankey refunds.png" class="image-float-right" width=50%>
+
+When a refund occurs, the amount will be refunded with bias towards replenishing Tiger Bucks, but not beyond the amount originally paid via Tiger Bucks. 
+
+As an example, a maker with 7.00 Construct Credits submits a 3D print with a total cost of $10.00. The transaction will take all 7.00 Construct Credits, and the balance of 3.00 from Tiger Bucks. If a 50% refund is issued for this 3D print (i.e. $5.00), the user will receive a refund of 3.00 Tiger Bucks, and 2.00 Construct Credits.
+
+See the following Sankey Diagram for a representation of this flow. 
+
+<p class = "clear-float"></p>
+
+The following sections refer to payment and refund policies specific to different types of transactions;
+
+### Self-Serve 3D Printing
+
+When a self-serve 3D print is queued, the amount is immediately charged.
+
+If a print is canceled in queue before it gets to the printer, the total amount is refunded to the maker. Self-Serve 3D prints canceled mid-print by the maker are not refunded.
+
+If a print fails and staff judge the failure to not be the fault of the maker, the print will be fully refunded.
+
+### Full Service 3D Printing
+
+When a full-service print is queued, it is given a placeholder price of $0.01. This price will then be updated by staff to reflect the actual price. Staff will first reach out via message on 3DPrinterOS, which will also result in an email to your RIT inbox, asking to confirm the new price. Once you confirm it, the price will be adjusted and immediately charged. 
+
+Canceling a full-service print will only result in a refund if the print has not started yet. Full-service prints cannot be canceled mid-print. 
+
 ## Material Policies
 
 It is the responsibility of the maker to ensure all materials they are bringing in to the makerspace are compliant with the following requirements. 
