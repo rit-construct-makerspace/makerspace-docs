@@ -74,6 +74,11 @@ Each insert will typically have a code on it that is ISO controlled and defines 
 
 <img src="..\assets\haas_lathe\cnmg.png" class="image-float-right" width=35%>
 
-**ADD TABLE OF INSERTS IN STOCK**
+1. Steel Roughing: [CNMG431-HUM](https://www.haastooling.com/p/02-0135){target="_blank"}
+2. Steel Finishing: [VNMG331-HUM](https://www.haastooling.com/p/02-0163){target="_blank"}
+3. Aluminum Roughing: [CCGT431-HAL](https://www.haastooling.com/p/02-0343){target="_blank"}
+4. Aluminum Finishing: [VBGT332-HAL](https://www.haastooling.com/p/02-0351){target="_blank"}
+
+[Speeds and Feeds for Haas Tooling](../South%20Shop/assets/Turning%20Inserts,%20Speeds%20and%20Feeds.pdf){:target="blank" .md-button}
 
 <p class = "clear-float"></p>
