@@ -2,9 +2,9 @@
 
 There are a number of 3D printers in the SHED makerspace students can access. They are generally split into 2 groups: 
 
-* [Self-Serve 3D Printers](/docs/General%20Makerspace/Self-Serve%203D%20Printing.md)
+* [Self-Serve 3D Printers](/General%20Makerspace/Self-Serve%203D%20Printing)
     * Standard-size 3D printers, PLA and PETG available in varying colors.
-* [Advanced 3D Printers](/docs/Atrium%20Makerspace/Advanced%203D%20Printing.md)
+* [Advanced 3D Printers](/Atrium%20Makerspace/Advanced%203D%20Printing)
     * Large-format 3D printers
     * Specialty materials
     * High-detail resin, powder printing.

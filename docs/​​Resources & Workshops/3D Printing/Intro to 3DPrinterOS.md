@@ -120,7 +120,7 @@ When you save changes in Layout, it does not overwrite the original file. Instea
 
 <img src="../assets/3dprinteros slicer.png" class="image-float-right" width=30%>
 
-The following is only for self-serve 3D printers (PLA and PETG standard-size machines). If you are looking to print on [advanced 3D printers](/docs/Atrium%20Makerspace/Advanced%203D%20Printing.md), go to [Submit STLs for Full-Serve](#submit-stls-for-full-serve) below.
+The following is only for self-serve 3D printers (PLA and PETG standard-size machines). If you are looking to print on [advanced 3D printers](/Atrium%20Makerspace/Advanced%203D%20Printing), go to [Submit STLs for Full-Serve](#submit-stls-for-full-serve) below.
 
 Once your model is all set in Layout, you can move on to slicing. Slicing is the process of converting a 3D model into GCODE, the machine data that our 3D printers can understand. You can slice directly from Layout with the large "Slice" button in the top right, or hit the green "Slice" button next to the STL in your Projects tab.
 
@@ -129,7 +129,7 @@ Once your model is all set in Layout, you can move on to slicing. Slicing is the
 
 The first step in slicing is choosing the proper configurations from the top menu. 
 
-* Select **Original Prusa CORE ONE** for printing in PLA. 
+* Select **Original Prusa CORE ONE** for printing in PLA.
 * Select **Original Prusa MK4** for printing in PETG.
 
 The **Slicing Profile** option should only be changed if you are told to use a different one for a club, class, etc.
