@@ -182,6 +182,9 @@ Once you choose a printer, hit "**Queue**" (not "Print"!) and answer any questio
 
 <img src="../assets/3dprinteros full serve queue.png" class="image-float-right" width=20%>
 
+!!! tip
+    Have a lot of parts to submit? We also accept ZIP files of parts to make it easier to keep track of a large batch of prints!
+
 For more advanced 3D printers, you submit an STL file instead of GCODE file. Once you have your STL scaled, you can submit your STL by hitting the "..." menu next to the file in your Project tab, then hit "Print" to see a list of available machines.
 
 !!! warning
