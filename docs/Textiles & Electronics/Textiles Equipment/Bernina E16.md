@@ -13,7 +13,7 @@ Prepare files for the E16 using Bernina Designer 9, more information can be foun
 <p class = "clear-float"></p>
 
 ### Prerequisites for Use
-* [Textiles Safety](https://make.rit.edu/app/maker/training/15)
+* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
 * [Bernina E16 Machine Training](https://make.rit.edu/app/maker/training/34)
 * [In-Person Competency Check](#in-person-competency-check)
 

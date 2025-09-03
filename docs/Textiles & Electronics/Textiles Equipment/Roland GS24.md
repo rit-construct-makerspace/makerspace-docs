@@ -16,6 +16,7 @@ Beyond vinyl, the machine can also cut paper, thin rubber, and similar thin comp
 [GS24 Online Manual](https://files.rolanddga.com/files/gs-24_usersmanual/responsive_html5/index.htm#t=GS-24_index.html){:target="_blank" .md-button}
 
 ### Prerequisites for Use
+* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
 * [Vinyl Cutter Training](https://make.rit.edu/app/maker/training/17)
 * [In-Person Competency Check](#in-person-competency-check)
 
