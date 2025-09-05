@@ -59,7 +59,7 @@ Your total balance displayed in 3DPrinterOS is the total amount of Construct Cre
 
 Construct Credits are used before Tiger Bucks when paying for a transaction.
 
-Payments in Construct Credits are refunded to Construct Credits. In the event of a transaction that was partially paid with Construct Credits and partially with Tiger Bucks, refunds will be returned to both sources, with a bias towards Tiger Bucks. See the [Refunds Section of the Makerspace Policies](/docs/​Policies%20&%20Guidances/Makerspace%20Policies/#payment-refunds) for more information. 
+Payments in Construct Credits are refunded to Construct Credits. In the event of a transaction that was partially paid with Construct Credits and partially with Tiger Bucks, refunds will be returned to both sources, with a bias towards Tiger Bucks. See the [Refunds Section of the Makerspace Policies](/​Policies%20&%20Guidances/Makerspace%20Policies/#payment-refunds) for more information. 
 
 ## I have another question!
 
