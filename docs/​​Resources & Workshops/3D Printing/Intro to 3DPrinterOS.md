@@ -132,7 +132,8 @@ The first step in slicing is choosing the proper configurations from the top men
 * Select **Original Prusa CORE ONE** for printing in PLA.
 * Select **Original Prusa MK4** for printing in PETG.
 
-The **Slicing Profile** option should only be changed if you are told to use a different one for a club, class, etc.
+!!! note
+    Printing for a class? You may be asked to select a different **Slciing Profile** that matches your class number, to bill the print to the department instead of you. See [No-Cost Class Printing](./Using%20Printers%20for%20Clubs,%20Classes.md#no-cost-class-printing-workflow) for more information!
 
 We recommend printing with the default settings. If you are happy with these settings, hit "Slice" to create your GCODE file, and you can move on to [Submit GCODE for Self-Serve](#submit-gcode-for-self-serve) below. 
 

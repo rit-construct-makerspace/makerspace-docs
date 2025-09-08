@@ -11,14 +11,45 @@ If you are a professor looking to set up one of these for a research group or cl
 
 When printing for classes, there are 2 routes that the SHED can accommodate for 3D printing; No-Cost and Pre-Paid
 
-1. In No-Cost mode, students in the class are given an option when slicing their print to set the cost to $0.00, as part of the class. This allows for printing as much as needed, but with the downside that the system will not put any automatic restrictions on it. Once all printing is completed, the totals are combined into a bill.
+1. In No-Cost mode, students in the class are given an option when slicing their print to set the cost to $0.00, as part of the class. This allows for printing as much as needed, but with the downside that the system will not put any automatic restrictions on it. Once all printing is completed, the totals are combined into a bill. See [No-Cost Printing Workflow](#no-cost-printing-workflow) for more information.
 2. In Pre-Paid mode, all students are given a flat amount of printing credit. This effectively sets a budget for the prints. If students exceed this pre-paid amount, it would start to take from their personal budget (Tiger Bucks). On the flip side, if the students do not use the entirety of their credit for the class, they can use the balance for personal printing. In this mode, the bill is based on student headcount and can be sent before or after printing. 
 
 To set up printing for your class, please contact [make@rit.edu](mailto:make@rit.edu).
 
+### No-Cost Class Printing Workflow
+
+If you are printing for a class that didn't specify a budget, you will have a slicer profile you can select that sets the price to $0, that way you are not charged! 
+
+This slicer profile is applied while you are **Slicing** your print, see [Intro to 3DPrinterOS: Slicing for Self-Serve](./Intro%20to%203DPrinterOS.md#slicing-for-self-serve){target:blank} for more information.
+
+**Accessing the Class Workgroup**
+
+<img src="../assets/3dprinteros add workgroup.png" class="image-float-right" width=30%>
+
+To access the slicing profile, you need to first register for the class workgroup in 3DPrinterOS. 
+
+Before continuing, your professor should have given you an access code. It will be a random string of letters and numbers. 
+
+In 3DPrinterOS, on the top of the "Printers" page, hit the "..." and "Add Workgroup Printers".
+
+You can then enter your access code from your professor on the window that pops up, and hit "Connect to Workgroup"
+
+!!! warning
+    This only gives you access to the slicers, you still need to finish your [3D Printing Self-Serve Training](/General%20Makerspace/Self-Serve%203D%20Printing/) to access the machines.
+
+<p class = "clear-float"></p>
+
+<img src="../assets/class slicer.png" class="image-float-left" width=30%>
+
+From here, you are all set! Continue slicing as normal, and select the correct slicer profile when slicing. If everything worked, the price of the print should be $0.00 (or no price visible).
+
+If something appears wrong, please contact your professor and CC make@rit.edu on the email so we can investigate.
+
+<p class = "clear-float"></p>
+
 ## 3D Printing for Clubs
 
-To access this resource, club leadership should reach out to the makerspace at [make@rit.edu](mailto:make@rit.edu) to set up a club printing account. This account, generally registered to the club’s email address, is where all prints must be routed for to take advantages of this benefit. The club then
+To access this resource, club leadership should reach out to the makerspace at [make@rit.edu](mailto:make@rit.edu) to set up a club printing account. This account, generally registered to the club’s email address, is where all prints must be routed for to take advantages of this benefit.
 
 When printing through a club account, the prints will be billed to the club directly, rather than to the user. Clubs can choose to set this up in one of two ways;
 

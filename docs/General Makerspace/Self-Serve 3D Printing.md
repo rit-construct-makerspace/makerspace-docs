@@ -6,6 +6,8 @@ The General Makerspace is home to the SHED's main print farm. Students, faculty,
 
 Makers can choose from one of the standard colors loaded in the farm when submitting their prints. These generally include orange, black, white, grey, and seasonal rotating colors such as green, yellow, red, blue, and pink.
 
+To access the Self-Serve 3D Printers, complete the [Self-Serve 3D Printing Training](https://make.rit.edu/app/maker/training/13).
+
 !!! info
     As of Fall 2025, a few PETG printers are available. PETG is a stronger, more flexible plastic that is traditionally used to make water bottles and similar. PETG is generally available in white, black, and translucent.
 

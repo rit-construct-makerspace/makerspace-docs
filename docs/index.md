@@ -23,3 +23,11 @@ To start, check out one of the following sections, or navigate using the top bar
 ## Contact Us
 
 Questions? Feedback? Find a typo? Email us! [make@rit.edu](mailto:make@rit.edu)
+
+## Help & Getting Started
+
+**Let's learn how to use make.rit.edu!**
+
+!!! note
+    =You are currently on the docs (docs.make.rit.edu), this is separate from the actual website (make.rit.edu), It may be worth opening make.rit.edu in another tab to follow along!
+
