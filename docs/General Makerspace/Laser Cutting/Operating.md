@@ -8,7 +8,10 @@
 
 </div>
 
-This page will walk you through preparing the laser cutter to execute a cut. By now, you should have prepared and printed your file from the computer. See the training below for more details on this.
+This page will walk you through preparing the laser cutter to execute a cut. By now, you should have prepared and printed your file from the computer. See the training linked above for more details on this.
+
+!!! info
+   Before continuing, RIT EHS requires you to complete the [Laser Safety Training on Talent Roadmap](https://rit.sabacloud.com/Saba/Web_spf/NA3P1PRD0049/common/leclassview/dowbt-0000171532).
 
 ## Epilog Laser Interface Guide
 <img src="..\assets\operating\interface.webp" class="image-float-right" width=40%>
