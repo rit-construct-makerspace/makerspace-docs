@@ -11,7 +11,7 @@
 </div>
 
 !!! info
-   Before continuing, RIT EHS requires you to complete the [Laser Safety Training on Talent Roadmap](https://rit.sabacloud.com/Saba/Web_spf/NA3P1PRD0049/common/leclassview/dowbt-0000171532)
+   Before continuing, RIT EHS requires you to complete the [Laser Safety Training on Talent Roadmap](https://rit.sabacloud.com/Saba/Web_spf/NA3P1PRD0049/common/leclassview/dowbt-0000171532).
 
 ## Machines
 
