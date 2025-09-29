@@ -12,7 +12,8 @@ If you are a professor looking to set up one of these for a research group or cl
 When printing for classes, there are 2 routes that the SHED can accommodate for 3D printing; No-Cost and Pre-Paid
 
 1. In No-Cost mode, students in the class are given an option when slicing their print to set the cost to $0.00, as part of the class. This allows for printing as much as needed, but with the downside that the system will not put any automatic restrictions on it. Once all printing is completed, the totals are combined into a bill. See [No-Cost Printing Workflow](#no-cost-printing-workflow) for more information.
-2. In Pre-Paid mode, all students are given a flat amount of printing credit. This effectively sets a budget for the prints. If students exceed this pre-paid amount, it would start to take from their personal budget (Tiger Bucks). On the flip side, if the students do not use the entirety of their credit for the class, they can use the balance for personal printing. In this mode, the bill is based on student headcount and can be sent before or after printing. 
+2. In Pre-Paid mode, all students are given a flat amount of printing credit. This effectively sets a budget for the prints. If students exceed this pre-paid amount, it would start to take from their personal budget (Tiger Bucks). On the flip side, if the students do not use the entirety of their credit for the class, they can use the balance for personal printing. In this mode, the bill is based on student headcount and can be sent before or after printing. Faculty, email [make@rit.edu](mailto:make@rit.edu) to set this up for your class.
+3. Dedicated Printing Account. For classes that will involve a lot of printing, at varying budgets, across multiple technologies (like MSD or Capstone), a dedicated printing account may be a better option. Students, see [Dedicated Printing Account for Classes](#dedicated-3d-printing-account-for-classes) below for more information on how to set up your account. Faculty, email [make@rit.edu](mailto:make@rit.edu) to set this up for your class.
 
 To set up printing for your class, please contact [make@rit.edu](mailto:make@rit.edu).
 
@@ -47,6 +48,17 @@ If something appears wrong, please contact your professor and CC make@rit.edu on
 
 <p class = "clear-float"></p>
 
+### Dedicated 3D Printing Account for Classes
+
+For classes that will be doing a variable but large amount of printing, spread across multiple technologies, such as MSD or Capstone projects, a dedicated printing account may be a good idea. This allows students to keep a pre-determined balance associated with their class/project independent from their personal account. 
+
+Students, to start you need to **configure your RIT email alias**. This is the email that will be used to log into 3DPrinterOS for your class. Emails sent to this address will automatically be forwarded to your normal *abc1234@rit.edu* account. Your professor will give you a preferred format for this email address. To enable the alias, go to [start.rit.edu](https://start.rit.edu){target:blank}, and select **Email Preferences** towards the bottom. Sign in with your RIT account, and find the section labeled **Personalized Email Alias**. Enter your email alias in this section, and then hit **Save Email Preferences** at the bottom.
+
+Once your email is set, let your professor know and/or follow their next steps. Keep an eye on your email, you'll eventually get an email from 3DPrinterOS confirming your account is ready to go. The email will include a temporary password to log into 3DPrinterOS with. You can change this to a more memorable password once you are logged in.
+
+!!! note
+    This new dedicated 3D printing account is **NOT** accessed via the SSO login for 3DPrinterOS! You can log in via [this link](https://cloud.3dprinteros.com/#/sign){target:blank}. You can verify you are logged in with the right account based on the name/email in the top right corner once you log in.
+
 ## 3D Printing for Clubs
 
 To access this resource, club leadership should reach out to the makerspace at [make@rit.edu](mailto:make@rit.edu) to set up a club printing account. This account, generally registered to the club’s email address, is where all prints must be routed for to take advantages of this benefit.
@@ -69,3 +81,11 @@ When logged in with the club printing account, proceed through the printing proc
 This benefit applies to all self-serve 3D printing resources in the SHED, no matter the machine or material. This does not extend to full-serve 3D printing resources, such as resin, large-format, and SLS powder prints. However, if you want to submit such prints through your club account to prevent individual users from being charged, reach out to [make@rit.edu](mailto:make@rit.edu) to set up your account for billing. 
 
 Improper use or abuse of this resource may result in restrictions placed on how much or when you can print. Please make sure you are only using this free printing for relevant, proper, and official club work.
+
+## 3D Printing for Research, Departments, or Similar
+
+RIT entities can elect to have a printing account created for their use. This account will need a dedicated email associated with it that is not a personal email. See [This ITS Help Article KB0033833](https://help.rit.edu/sp?id=kb_article&table=kb_knowledge&sysparm_article=KB0033833&searchTerm=request%20email){target:blank} for information on setting up a department shared inbox if you do not have one already. 
+
+Once you have an email set up, contact [make@rit.edu](mailto:make@rit.edu) to begin the process of setting up your account under this email. As part of setting up your account, we will ask what credit limit you want to set up for your account. 
+
+Once your account is set up, you can sign into it via the 3DPrinterOS Sign In link (**NOT** the SSO Link!), found [here](https://cloud.3dprinteros.com/#/sign)

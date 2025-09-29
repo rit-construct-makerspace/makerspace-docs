@@ -112,4 +112,4 @@ Most equipment has an **In-Person Competency Check** associated with it. This ca
 
 ### Access Control
 
-Most equipment in the shop has an access control reader installed.
+Most equipment in the shop has an access control reader installed. These ensure that only trained users access equipment.
