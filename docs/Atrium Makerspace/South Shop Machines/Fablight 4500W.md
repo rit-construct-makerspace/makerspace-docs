@@ -18,11 +18,14 @@ The machine always does rasterization first, then engraving, then cutting.
 
 Before using the FabLight, always refer to the Compatible Materials list! If your material is "Undocumented" or otherwise unlisted below, it means the settings for your it are not in our software list yet. Please contact [make@rit.edu](mailto:make@rit.edu) before proceeding.
 
+!!! note
+    Due to the nature of reflective materials, the SHED charges $2 per minute of cut time for materials that aren't steel or aluminum.
+
 <p class = "clear-float"></p>
 
 ## Preparing Your File
 
-1. Using your favorite CAD design tool, create the design you desire for your projec. Make note of what units you used.
+1. Using your favorite CAD design tool, create the design you desire for your project. Make note of what units you used.
 
     * Design Constraints: Your design should consist only lines of no particular thickness or color. All cut, engrave, and raster choices are all made afterward in the software. 
 

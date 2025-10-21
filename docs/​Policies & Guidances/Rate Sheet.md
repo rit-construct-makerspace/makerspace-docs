@@ -31,7 +31,7 @@ Key:
 | SLS Nylon 12                                                                              | $0.10/g                               | $0.25/g                                   |
 |                                                                                           |                                       |                                           |
 |**Machining**                                                                              |                                       |                                           |
-| Metal Laser                                                                               | Free*, MNP                            | $1/min                                    |
+| Metal Laser                                                                               | Free* for Steel / Aluminum, 2$/min for reflective materials, MNP                            | $1/min                                    |
 | CNC Routing                                                                               | Free*, MNP                            | $1/min                                    |
 | Waterjet                                                                                  | $1/min, Free* for clubs teams, MNP    | $3/min                                    |
 | CNC Mill/Lathe                                                                            | Free*, MNP                            | Prices determined per job.                |
