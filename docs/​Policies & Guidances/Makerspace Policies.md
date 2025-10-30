@@ -45,6 +45,9 @@ Further restrictions on specific project types beyond the [Permitted Project Cla
 * **Illegal Projects**: Projects can not relate to an object, action, service, or similar that is illegal in any jurisdiction relevant to the maker, the makerspace, or RIT. This includes, but is not limited to, local, state, and federal law.
 
 * **Weapons, Firearms, and Dangerous Instruments**: Such objects, as defined by RIT Policy C17.0, accessible [here](https://www.rit.edu/policies/c170), cannot be worked on in the makerspace. This includes, but is not limited to, the design and/or fabrication of such objects, precursors to such objects, or accessories and/or add-ons to such objects, functional or otherwise. This restriction also extends to depictions, representations, models and/or other non-functional or limited-functionality objects intended to resemble or mimic a weapon, firearm, or dangerous instrument that may be interpreted as or mistaken for a weapon, firearm, or dangerous instrument.
+    * Depictions, representations, or models of weapons, firearms, or dangerous instruments can be printed under one of the following conditions;
+    * The part is a non-functional, non-moving, representation with no sharp edges, completely printed in orange material, and is not painted or obscured in any other way.
+    * The part is requested in writing by the director, PI, research coordinator, or similar responsible faculty or staff RIT representative with a justification as to the need for this part to be manufactured.
 
 * **Violation of RIT Policy**: Any project that results in violation of RIT Policy, either in the process of working on the project or with the end-result of the project, is not permitted.
 
