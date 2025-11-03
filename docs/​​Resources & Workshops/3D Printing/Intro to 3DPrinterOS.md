@@ -9,6 +9,8 @@
     You **must** access the printers via SSO (single sign-on) with your RIT account. Do so at the link above, or on the 3DPrinterOS login page, hit "SSO" and select "Rochester Institute of Technology" from the list.
 
     Creating an account any other way, or using a standard 3DPrinterOS account, will not work. Even if it uses your RIT email address! Attempting to bypass SSO requirements will break the system and you will not be able to access 3D printers.
+
+    The **only** exception to this is dedicated printing accounts for certain classes, clubs, and research groups. If instructed to use this login method instead, log in [at this link]([cloud.3dprinteros.com/](https://cloud.3dprinteros.com/#/sign)){:target="_blank"}
     <p class = "clear-float"></p>
 
 ## Navigating 3DPrinterOS
