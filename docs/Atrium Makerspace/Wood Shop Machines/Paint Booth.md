@@ -16,7 +16,7 @@ Time must be scheduled for use to avoid conflicts between other users. Time can 
 
 <div class="grid" markdown>
 
-[SHED Makerspace Calendar](https://rit0.sharepoint.com/sites/shed-makerspace-internal/Lists/Paintbooth/Paint%20Booth%20Calendar.aspx){:target="_blank" .md-button}
+[SHED Makerspace Calendar](https://make.rit.edu/link/calendar){:target="_blank" .md-button}
 
 [RIT Voluntary Use Form](https://www.rit.edu/ehs/sites/rit.edu.ehs/files/documents/Information%20for%20Employees%20Using%20Respirators%20Form-Voluntary%20Use%20Form%20-%20editable.pdf){:target="_blank" .md-button}
 

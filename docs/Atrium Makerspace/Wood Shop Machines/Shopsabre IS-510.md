@@ -8,7 +8,7 @@ The bed of the machine can handle 5ft x 10ft material sheets, and has a vacuum s
 
 This equipment can be reserved by appointment only.
 
-[SHED Makerspace Calendar](https://rit0.sharepoint.com/sites/shed-makerspace-internal/Lists/Paintbooth/Paint%20Booth%20Calendar.aspx){:target="_blank" .md-button}
+[SHED Makerspace Calendar](https://make.rit.edu/link/calendar){:target="_blank" .md-button}
 
 <p class = "clear-float"></p>
 
