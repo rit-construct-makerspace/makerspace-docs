@@ -61,7 +61,7 @@ Due to the advanced nature of this equipment, there isn't a simple process for u
 6. Come in and go over the setup of the machine and we run the parts
     - You are required to be present for the duration of the cut
 
-Once you've completed this process a few times, we can validate your account to run this without supervision. At that point you can schedule time to come in and use it at your leisure.    
+Once you've completed this process a few times, we can validate your account to run this without supervision. At that point you can schedule time to come in and use it at your leisure.
 
 <div class="grid" markdown>
 
