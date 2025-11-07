@@ -118,6 +118,6 @@ Supporting up to a large cross section can increase risk of failure. As the brid
 3. This orientation appears chosen due to the size of the geometry fitting in the Z height of the machine
 4. Print extends to almost the machine limits
 
-This part did end up failing at least once or twice, due to the supports being damaged or collided with the nozzle. Supports are typically a hollow structure that doesn't have a lot of rigidity. The smaller it becomes, the more prone it is to snapping at a lower point. Once the support has failed, the print can no longer successfully complete. This print should've been sent to the larger Prusa XL print queue and oriented flat against the bed.
+This part did end up failing at least once or twice, due to the supports being damaged or collided with the nozzle. Supports are typically a hollow structure that doesn't have a lot of rigidity. The smaller it becomes, the more prone it is to snapping at a lower point. Once the support has failed, the print can no longer successfully complete. This print should've been sent to the larger Prusa XL print queue and oriented flat against the bed. 
 
 <p class = "clear-float"></p>
