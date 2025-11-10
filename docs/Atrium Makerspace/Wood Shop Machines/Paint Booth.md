@@ -54,3 +54,13 @@ Trash cans are provided of disposal of gloves and aerosol cans.
 Each trash can has a label above it, along with the aerosol trash having a size limiter installed.
 
 <p class = "clear-float"></p>
+
+## Reserving the Paint Booth
+
+As the Paint Booth is a low-impact area that is used by many people, we have two avenues for using it. We have an open hours sessions from Monday - Friday between 10am and 4pm. If you need this for longer, you can only reserve in slots from 4pm to 10am the following day. This time must be reserved at least a week in advance. These requests can be submitted through email to: [make@rit.edu](mailto:make@rit.edu)
+
+For general use, you can stop in Monday - Friday 10am to 4pm. This is first come, first serve.
+
+For specific use, you must reserve at least 1 week in advance, and must book the 4pm to 10am slot, even if you don't intend on using this entire time. This will help prevent conflicts and allow time for wrap-up.
+
+If coordination for longer use is required, please reach out to professional staff: [make@rit.edu](mailto:make@rit.edu)
