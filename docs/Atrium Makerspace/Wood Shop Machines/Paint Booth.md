@@ -8,7 +8,7 @@ The SHED can provide N95 particulate masks. Face seal respirators must be fit te
 
 MSDS (Material Safety Data Sheets) must be provided upon request for the materials that are being used within the paint booth.
 
-Time must be scheduled for use to avoid conflicts between other users. Time can be scheduled here:
+Time must be scheduled for use to avoid conflicts between other users, outside of open hours.
 
 <p class = "clear-float"></p>
 
