@@ -34,6 +34,7 @@ The following equipment can be found in the Atrium Makerspace:
 * [Scroll Saw - JET JWss-18B](./Wood%20Shop%20Machines/JET%20JWSS-18B.md)
 * [Bandsaw - Laguna Tools 168BX](./Wood%20Shop%20Machines/Laguna%20Tools%20186BX.md)
 * [Disk/Belt Sander - Laguna Tools DB126](./Wood%20Shop%20Machines/Laguna%20Tools%20DB126.md)
+* [Drum Sander - Laguna Tools DS1632](./Wood%20Shop%20Machines/Laguna%20Tools%20DS1632.md)
 * [Jointer - Laguna Tools JX8](./Wood%20Shop%20Machines/Laguna%20Tools%20JX8.md)
 * [Planer - Laguna Tools PX20](./Wood%20Shop%20Machines/Laguna%20Tools%20PX20.md)
 * [Spindle Sander - Laguna Tools SS24T](./Wood%20Shop%20Machines/Laguna%20Tools%20SS24T.md)
