@@ -57,11 +57,7 @@ The make.rit.edu pages is also where you can find information on trainings requi
 
 ### How to Access Equipment
 
-All equipment in the makerspace has trainings associated with it before use. All trainings are found on make.rit.edu **except one**: RIT Health & Safety requires you to complete the [Shop Safety Training](https://rit.sabacloud.com/Saba/Web_spf/NA3P1PRD0049/common/leclassview/dowbt-0000171534){target="_blank"}. This is required before using any shop on campus.
-
-Once that is complete, all other trainings can be found on make.rit.edu, under a specific makerspace. 
-
-Trainings generally consist of reading the relevant documentation, and answering a few questions to ensure you understand the most important parts!
+All equipment in the makerspace has trainings associated with it before use. All trainings are found on make.rit.edu. Trainings generally consist of reading the relevant documentation, and answering a few questions to ensure you understand the most important parts!
 
 Trainings are split into 3 levels;
 
