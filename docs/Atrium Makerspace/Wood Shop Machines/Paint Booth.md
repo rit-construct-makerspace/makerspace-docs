@@ -10,6 +10,8 @@ MSDS (Material Safety Data Sheets) must be provided upon request for the materia
 
 Time must be scheduled for use to avoid conflicts between other users, outside of open hours.
 
+You can reserve the paint booth via [this calendar link](https://make.rit.edu/app/makerspace/36/reserve/41). 
+
 <p class = "clear-float"></p>
 
 ---
