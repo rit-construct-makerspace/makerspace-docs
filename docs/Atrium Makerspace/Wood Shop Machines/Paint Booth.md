@@ -59,7 +59,7 @@ Each trash can has a label above it, along with the aerosol trash having a size 
 
 ## Reserving the Paint Booth
 
-As the Paint Booth is a low-impact area that is used by many people, we have two avenues for using it. We have an open hours sessions from Monday - Friday between 10am and 4pm. If you need this for longer, you can only reserve in slots from 4pm to 10am the following day. This time must be reserved at least a week in advance. These requests can be submitted through email to: [make@rit.edu](mailto:make@rit.edu)
+As the Paint Booth is a low-impact area that is used by many people, we have two avenues for using it. We have an open hours sessions from Monday - Friday between 10am and 4pm. If you need this for longer, you can only reserve in slots from 4pm to 10am the following day. This time must be reserved at least a week in advance. These requests can be submitted through make.rit.edu [at this link](https://make.rit.edu/app/makerspace/36/reserve/41). 
 
 For general use, you can stop in Monday - Friday 10am to 4pm. This is first come, first serve.
 
