@@ -10,9 +10,9 @@ Please click the proper link below to access the Shop Safety Training;
 
 <div class="grid" markdown>
 
-[MyCourses Shop Safety (Students)](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209660){:target="_blank" .md-button}
+[STUDENTS Shop Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209660){:target="_blank" .md-button}
 
-[Workday Shop Safety (Faculty/Staff)](https://wd12.myworkday.com/rit/email-universal/inst/17816$59/rel-task/2998$29489.htmld){:target="_blank" .md-button}
+[FACULTY/STAFF Shop Safety](https://wd12.myworkday.com/rit/email-universal/inst/17816$59/rel-task/2998$29489.htmld){:target="_blank" .md-button}
 
 </div>
 
@@ -22,6 +22,6 @@ All RIT students, faculty, and staff are mandated by the RIT office of Environme
 
 Please click the proper link below to access the Laser Safety Training;
 
-[MyCourses Shop Safety (Students)](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209661){:target="_blank" .md-button}
+[STUDENTS Laser Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209661){:target="_blank" .md-button}
 
-[Workday Shop Safety (Faculty/Staff)](https://wd12.myworkday.com/rit/email-universal/inst/17816$67/rel-task/2998$29489.htmld){:target="_blank" .md-button}
+[FACULTY/STAFF Laser Safety](https://wd12.myworkday.com/rit/email-universal/inst/17816$67/rel-task/2998$29489.htmld){:target="_blank" .md-button}
