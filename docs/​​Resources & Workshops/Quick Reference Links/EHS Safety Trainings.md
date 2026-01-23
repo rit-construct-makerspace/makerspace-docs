@@ -22,6 +22,8 @@ All RIT students, faculty, and staff are mandated by the RIT office of Environme
 
 Please click the proper link below to access the Laser Safety Training;
 
+<div class="grid" markdown>
+
 [STUDENTS Laser Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209661){:target="_blank" .md-button}
 
 [FACULTY/STAFF Laser Safety](https://wd12.myworkday.com/rit/email-universal/inst/17816$67/rel-task/2998$29489.htmld){:target="_blank" .md-button}
