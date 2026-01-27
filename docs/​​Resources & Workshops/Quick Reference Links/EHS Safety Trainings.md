@@ -10,7 +10,7 @@ Please click the proper link below to access the Shop Safety Training;
 
 <div class="grid" markdown>
 
-[STUDENTS Shop Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209660){:target="_blank" .md-button}
+[STUDENTS Shop Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1177155){:target="_blank" .md-button}
 
 [FACULTY/STAFF Shop Safety](https://wd12.myworkday.com/rit/email-universal/inst/17816$59/rel-task/2998$29489.htmld){:target="_blank" .md-button}
 
