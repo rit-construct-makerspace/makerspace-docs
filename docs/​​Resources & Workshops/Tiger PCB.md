@@ -1,3 +1,4 @@
-# Tiger PCB
+# Tiger Badge PCB
 
-![Image](./assets/Tiger%20Badge%20Display.jpg)
+[View the source content on GitHub](https://github.com/rit-construct-makerspace/TigerBadge)
+
