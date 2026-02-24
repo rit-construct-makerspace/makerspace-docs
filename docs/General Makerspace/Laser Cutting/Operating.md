@@ -97,7 +97,6 @@ If you want to manually trigger the auto-focus, drive over the center of your ma
 ## Fume Extractors & Air Assist
 
 ### Fume Extractor
-<img src="..\assets\operating\edge_12.png" class="image-float-right" width=35%>
 
 All 3 laser cutters have a fume extractor, that should automatically turn on when the cut starts.
 
@@ -105,15 +104,40 @@ On the Fusion Edge 12, the fume extractor is in the base of the machine. To veri
 
 On the Fusion Edge 36 and Fusion Pro, the fume extractor is behind the computer. These extractors are ready to operate if there is content on the screen. You can tell the extractor is working if the top number on the screen increases from 0 when the laser runs. If the buttons on the right side of the screen turn red, it is an indicator of an error. Notify staff, but it is usually not critical enough that you have to stop the current job on the laser cutter.
 
----
+<img src="..\assets\operating\edge_36.png" width=35%> <img src="..\assets\operating\edge_12.png" width=35%>
 
 ### Air Assist
-<img src="..\assets\operating\edge_36.png" class="image-float-right" width=35%>
+
+<img src="..\assets\operating\air_assist.png" class="image-float-right" width=35%>
+
 The Fusion Edge laser cutters both require compressed air to properly operate. The Fusion Pro does not. The air controls are behind the laser cutters.
 
 Air is on when the white handle is parallel with the pipe, it is off when the handle is perpendicular. You should also verify air is flowing by the gauge on the end of the pipe reading more than 0.
 
-<img src="..\assets\operating\air_assist.png" class="image-float-left" width=35%>
+<p class = "clear-float"></p>
+
+### Laser Safety Monitor
+
+<img src="..\assets\operating\safety_monitor.jpg" class="image-float-right" width=35%>
+
+To assist in ensuring there are no issues with the fume extractor and air assist, there is a safety monitor installed on each laser cutter. 
+
+**BEFORE OPERATION** : The laser safety monitor will have a *yellow* light, and say "STBY" (standby) on the screen.
+
+**DURING STARTUP** : As the system starts, the yellow light will flash, and the screen will say "WAIT".
+
+**RUNNING NORMALLY** : If the system starts up normally, the light will turn green and the screen will say "GOOD".
+
+**ERROR** : If there is a fault, the light will flash red and an alarm will start sounding. The screen will say what the issue is;
+
+* "FUME" if the fume extractor is not operating. Can be offline, not starting fast enough, in an error state, etc.
+* "AIR" if the air supply is below the rated pressure.
+
+The system will continue to alarm in an error state until the cut is aborted, even if the issue is rectified.
+
+!!! note
+
+    Reminder: to abort the cut, hit the physical pause button, then the reset button in the bottom left corner of the touchscreen.
 
 <p class = "clear-float"></p>
 
