@@ -19,7 +19,7 @@
       
       
       <link rel="icon" href="../../../assets/tiger-icon.svg">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
     
     
       
@@ -1998,6 +1998,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#laser-safety-monitor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laser Safety Monitor
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3587,6 +3598,17 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#laser-safety-monitor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laser Safety Monitor
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3698,16 +3720,32 @@ Delete File: Deletes currently selected file.</p>
 
 <h2 id="fume-extractors-air-assist">Fume Extractors &amp; Air Assist<a class="headerlink" href="#fume-extractors-air-assist" title="Permanent link">#</a></h2>
 <h3 id="fume-extractor">Fume Extractor<a class="headerlink" href="#fume-extractor" title="Permanent link">#</a></h3>
-<p><img src="..\assets\operating\edge_12.png" class="image-float-right" width=35%></p>
 <p>All 3 laser cutters have a fume extractor, that should automatically turn on when the cut starts.</p>
 <p>On the Fusion Edge 12, the fume extractor is in the base of the machine. To verify the fume extractor is ready to operate, the 3 indicators on the front should be flashing. You can tell the fume extractor turns on if the green light is on and there are blue light(s) on in the bar graph while cutting.</p>
 <p>On the Fusion Edge 36 and Fusion Pro, the fume extractor is behind the computer. These extractors are ready to operate if there is content on the screen. You can tell the extractor is working if the top number on the screen increases from 0 when the laser runs. If the buttons on the right side of the screen turn red, it is an indicator of an error. Notify staff, but it is usually not critical enough that you have to stop the current job on the laser cutter.</p>
-<hr />
+<p><img src="..\assets\operating\edge_36.png" width=35%> <img src="..\assets\operating\edge_12.png" width=35%></p>
 <h3 id="air-assist">Air Assist<a class="headerlink" href="#air-assist" title="Permanent link">#</a></h3>
-<p><img src="..\assets\operating\edge_36.png" class="image-float-right" width=35%>
-The Fusion Edge laser cutters both require compressed air to properly operate. The Fusion Pro does not. The air controls are behind the laser cutters.</p>
+<p><img src="..\assets\operating\air_assist.png" class="image-float-right" width=35%></p>
+<p>The Fusion Edge laser cutters both require compressed air to properly operate. The Fusion Pro does not. The air controls are behind the laser cutters.</p>
 <p>Air is on when the white handle is parallel with the pipe, it is off when the handle is perpendicular. You should also verify air is flowing by the gauge on the end of the pipe reading more than 0.</p>
-<p><img src="..\assets\operating\air_assist.png" class="image-float-left" width=35%></p>
+<p class = "clear-float"></p>
+
+<h3 id="laser-safety-monitor">Laser Safety Monitor<a class="headerlink" href="#laser-safety-monitor" title="Permanent link">#</a></h3>
+<p><img src="..\assets\operating\safety_monitor.jpg" class="image-float-right" width=35%></p>
+<p>To assist in ensuring there are no issues with the fume extractor and air assist, there is a safety monitor installed on each laser cutter. </p>
+<p><strong>BEFORE OPERATION</strong> : The laser safety monitor will have a <em>yellow</em> light, and say "STBY" (standby) on the screen.</p>
+<p><strong>DURING STARTUP</strong> : As the system starts, the yellow light will flash, and the screen will say "WAIT".</p>
+<p><strong>RUNNING NORMALLY</strong> : If the system starts up normally, the light will turn green and the screen will say "GOOD".</p>
+<p><strong>ERROR</strong> : If there is a fault, the light will flash red and an alarm will start sounding. The screen will say what the issue is;</p>
+<ul>
+<li>"FUME" if the fume extractor is not operating. Can be offline, not starting fast enough, in an error state, etc.</li>
+<li>"AIR" if the air supply is below the rated pressure.</li>
+</ul>
+<p>The system will continue to alarm in an error state until the cut is aborted, even if the issue is rectified.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Reminder: to abort the cut, hit the physical pause button, then the reset button in the bottom left corner of the touchscreen.</p>
+</div>
 <p class = "clear-float"></p>
 
 <h2 id="laser-fire-hazard">Laser Fire Hazard<a class="headerlink" href="#laser-fire-hazard" title="Permanent link">#</a></h2>
@@ -3739,7 +3777,7 @@ The Fusion Edge laser cutters both require compressed air to properly operate. T
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="January 9, 2026 18:52:36 UTC">January 9, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 24, 2026 17:28:17 UTC">February 24, 2026</span>
   </span>
 
     
