@@ -24,6 +24,8 @@ SLA (aka resin) printing is a process where a laser is fired into a vat of photo
 
 In addition to being much more detailed, resin printing enables more complex materials compared to traditional FDM printing. Even the default grey/clear resins have superior mechanical properties to PLA and PETG. 
 
+<p class = "clear-float"></p>
+
 We offer the following resins;
 
 * Grey, the standard choice., Grey has excellent surface finishes ideal for use as-is, or makes for a great painting base. Learn more in the [Grey Resin Technical Datasheet](https://dental-media.formlabs.com/datasheets/2401898-TDS-ENUS-0.pdf){target="_blank"}. 
@@ -38,8 +40,6 @@ There are 2 major downsides to resin printing to keep in mind;
 
 1. All models need supports, and a lot of them. Resin prints are very delicate as they are printed, so they are surrounded in an extensive support structure that needs to be manually removed after printing. 
 2. Resin prints are solid. Since resin starts as a liquid, you can't have infill like a normal FDM 3D print, or it will trap liquid resin inside. Models must be printed 100% solid, increasing print time and cost. Larger models can be hollowed, but care must be taken to ensure there are enough large drain holes to get all liquid material out of them. 
-
-<p class = "clear-float"></p>
 
 ## Formlabs SLS Nylon 3D Printer
 
