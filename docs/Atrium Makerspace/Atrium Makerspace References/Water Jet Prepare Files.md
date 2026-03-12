@@ -14,7 +14,7 @@ There are 4 main considerations for preparing a file for the water jet or laser 
         The water jet and metal laser cutter both assume files are in inches, so make sure your file is in inches once exported. If not, the file will be obviously very large/small.
 
 3. **Export Discrete Parts!** While it may be tempting to lay out and nest parts in CAD to save materials, it is better to do this in the respective software for the machine used to cut the parts. You should export each part as its own DXF file. That being said, if you need 30 copies of a file, don't export the file 30 times.
-4. **Include additional details in supporting documents!** Provide as much additional detail as possible for the operator, such as material type, critical dimensions, preferred orientation, etc. in a separate supporting document, if needed. 
+4. **Include additional details in supporting documents!** Provide as much additional detail as possible for the operator, such as material type, critical dimensions, preferred orientation, etc. in a separate supporting document, if needed.
 
 ## File Export
 
