@@ -17,7 +17,7 @@ Key:
 | General PLA                                                                               | $0.03/g                               | $0.05/g                                   |
 | Exotic Material (CF, PETG, TPU)                                                           | $0.04/g -$0.05/g                      | $0.07/g                                   |
 | **3D Printing (MarkForged)**                                                              |                                       |                                           |
-| ONYX (Nylon w/ chopped CF)                                                                | $0.10/g                               | $0.10/g                                   |
+| ONYX (Nylon w/ chopped CF)                                                                | $0.20/g                               | $0.25/g                                   |
 | Continuous Composite (Fiberglass, Kevlar, Carbon Fiber)                                   | $0.15/g                               | $0.20/g                                   |
 | **3D Printing (Stratasys High Temperature)**                                              |                                       |                                           |
 | ABS / ASA                                                                                 | $0.20/g                               | $0.25/g                                   |
