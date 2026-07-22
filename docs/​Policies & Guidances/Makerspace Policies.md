@@ -239,7 +239,7 @@ If damage to makerspace equipment, tools, resources, or similar was found to be 
 
 ## Equipment Access Control Systems
 
-Attempting to interfere with, defeat, bypass, or otherwise gain access to a piece of equipment with an access control system, including physical lockouts, is not permitted.
+Attempting to interfere with, defeat, bypass, or otherwise improperly gain access to a piece of equipment with an access control system, including physical lockouts, is not permitted.
 
 Some equipment in some makerspaces has restricted access through the use of a card-based Access Control System. Use of such equipment with anything other than your current, valid, university-issued ID or current, valid, makerspace-issued ID is not permitted. This includes emulation, cloning, or otherwise mimicking the identifying information of your issued ID card with another device or card.
 
