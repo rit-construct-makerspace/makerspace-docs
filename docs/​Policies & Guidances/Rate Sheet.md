@@ -25,7 +25,8 @@ Key:
 | Ultem 9085 / 1010                                                                         | $0.20/g                               | $0.25g                                    |
 | **DLP SLA Resin Printing** *(includes Wash and Cure, no support removal unless requested)*|                                       |                                           |
 | Grey Resin                                                                                | $0.15/ml                              | $0.15/ml                                  |
-| Clear Resin                                                                               | $0.20/ml                              | $0.25/ml                                  |
+| Clear Resin                                                                               | $0.10/ml                              | $0.15/ml
+| Tough 2000 Resin                                                                          | $0.20/ml                              | $0.25/ml                             |
 | High Temp Resin                                                                           | $0.25/ml                              | $0.25/ml                                  |
 | **SLS Selective Laser Sintering**                                                         |                                       |                                           |
 | SLS Nylon 12                                                                              | $0.10/g                               | $0.25/g                                   |
