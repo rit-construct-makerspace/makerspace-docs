@@ -11,7 +11,7 @@ Since designs are cut from a sheet of material, only single color designs are po
 Beyond vinyl, the machine can also cut paper, thin rubber, and similar thin complaint materials. It cannot be used to cut fabric, veneer, or rigid plastic sheeting.
 
 !!! info
-    The vinyl in the SHED must be paid for before use! Please speak to a member of staff to purchase.
+    We have some basic vinyl options available free-of-charge in the makerspace! You can also provide your own though. 
 
 [GS24 Online Manual](https://files.rolanddga.com/files/gs-24_usersmanual/responsive_html5/index.htm#t=GS-24_index.html){:target="_blank" .md-button}
 
@@ -22,52 +22,38 @@ Beyond vinyl, the machine can also cut paper, thin rubber, and similar thin comp
 
 <p class = "clear-float"></p>
 
-## Safety Warnings
 
-Please read all of the following before continuing;
-
-=== "Cut Hazard"
-    <img src="..\assets\cut hazard.webp" class="image-float-right" width=30%>
-
-    Avoid touching the blade
-
-    <p class = "clear-float"></p>
-
-=== "Tangle Hazard"
-    <img src="..\assets\tangle hazard.webp" class="image-float-right" width=30%>
-
-    Wear short sleeves or roll up long sleeves.
-
-    Secure loose clothing.
-
-    Tie up and tuck in long hair.
-
-    Remove lanyards, jewelry, gloves, etc.
-
-    <p class = "clear-float"></p>
-
-=== "Pinch Hazard"
-    <img src="..\assets\pinch hazard.webp" class="image-float-right" width=30%>
-
-    Keep hands clear while machine is moving.
-
-    <p class = "clear-float"></p>
+!!! note
+    As of Fall 2026, we have revamped the workflow for the Roland! Things are a lot easier now. If you used the machine in the past, make sure to re-familiarize yourself with what is new and different.
 
 ## Preparing Designs
 
-Before cutting, you must prepare your design using **Roland CutStudio**, which is available on the computer attached to the vinyl cutter.
+Ideally, you would use a vector file (SVG, DXF, etc.) for the vinyl cutter. If you have a vector file, follow the steps in **Inkscape SVG Direct Transfer** below. If you have an image file (JPG, PNG), follow the steps in **Tracing a Non-Vector file** below.
 
-### Import File
+If you are resuming a previous project that you have saved as a CST file, open it with *File > Open* in CutStudio directly.
 
-CutStudio only works with JPG, PNG, and SVG files. These work best if they have clear, distinct colors and obvious edges for the software to pick up on. Import these files by hitting *File > Import*. Multiple files can be cut as part of the same design, and the software will nest them automatically.
+!!! tip
+    Making a very simple design, just shapes and text? No need to prep a file! CutStudio has some built-in shape tools you can use directly. 
 
-CutStudio has some basic shape and text creation tools as well, found in the left side menu.
+### (Preferred) Inkscape SVG Direct Transfer
 
-If you are resuming a previous project that you have saved as a CST file, open it with *File > Open*.
+To open your DXF, SVG, etc. in Inkscape, open the software and hit *File > Open...*. If the file is not an SVG, a dialog box may appear for a file conversion before you can continue.
 
-### Tracing File
+Since our file is already a vector, we can pass it directly to the vinyl cutter's software. Before we do that though, make sure the vector only contains;
+
+* **The shape you want to cut.** Remove any other details! 
+* **Solid, line-only shapes.** Remove any fills, patterns, or partial transparency. Remove any embedded images. Make sure all lines have a weight.
+* **No Text Objects!** Convert text objects to path objects by selecting them, and hitting *Path > Object to Path*.
+
+Before continuing you should also **check your scale**! To do this, select an object, and at the top, you will see the dimensions. By default, it is in **px** (pixel) units, but you can change to inches or millimeters by clicking the unit drop-down. 
+
+Once you have confirmed everything is correct open **Roland CutStudio** in the background. Back in Inkscape, hit *Extensions > Roland CutStudio > Open in CutStudio*.
+
+### Tracing a Non-Vector File
 
 <iframe width="560" class="image-float-right" height="315" src="https://www.youtube.com/embed/mQjLP4vibVA?si=mX8x4COau3dIz4ce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Before continuing, make sure you have a relatively simple image to make tracing easier. Tracing works best if they have clear, distinct colors and obvious edges for the software to pick up on. Import these files by hitting *File > Import*. Multiple files can be cut as part of the same design, and the software will nest them automatically.
 
 To convert your image file into a line for the machine to follow, we have to trace it. To do this;
 
@@ -194,6 +180,6 @@ Weeding is the process of removing unwanted vinyl after cutting. Once we remove 
 To demonstrate competency, makers will be asked to create a small sticker. They may choose/make a design of their own, or staff can provide one. 
 
 * Load vinyl
-* Prepare and trace a design
-* Safely weed design and apply transfer tape
+* Demonstrate the software workflow for loading 
+* Safely weed the design and apply transfer tape
 * Apply the finished sticker to a surface

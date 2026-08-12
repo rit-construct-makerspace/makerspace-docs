@@ -37,7 +37,7 @@ In order to assist with projects, we try to stock a number of free basic electri
 * [Production Embroidery Machine - Bernina E16](./Textiles%20Equipment/Bernina%20E16.md)
 * [Serger/Overlocker - Bernina L460](./Textiles%20Equipment/Bernina%20L460.md)
 * [Quilting Machine - Bernina Q20](./Textiles%20Equipment/Bernina%20Q20.md)
-* [Vinyl Cutter - Roland GS24](./Textiles%20Equipment/Roland%20GS24.md)
+* [Vinyl Cutter - Cricut Maker 4](./Textiles%20Equipment/Cricut%20Maker%204.md)
 * Ironing Bench / Garment Steaming Bench
 * Hand crochet and sewing tools
 * Dress forms
