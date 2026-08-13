@@ -9,10 +9,9 @@ The sandpaper on the drum sander can be changed out for different grits.
 
 ### Prerequisites for Use
 
-* [Drum Sander Safety Training](https://make.rit.edu/app/maker/training/340){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

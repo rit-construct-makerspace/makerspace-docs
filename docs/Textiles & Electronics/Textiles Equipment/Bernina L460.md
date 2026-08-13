@@ -9,11 +9,9 @@ The Bernina L460 is a Serger (aka Overlocker depending on the country). Sergers 
 [L460 Manual](https://www.bernina.com/en-US/SupportData/BERNINA-Nah-und-Stickmaschinen/Overlocker/Manuals/PDFs-L-450_L460/L-450_L-460_EN_Manual_201606_50B){:target="_blank" .md-button}
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Bernina L460 Serger/Overlocker Training](https://make.rit.edu/app/maker/training/41)
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Warnings
 

@@ -16,15 +16,9 @@ Beyond vinyl, the machine can also cut paper, thin rubber, and similar thin comp
 [GS24 Online Manual](https://files.rolanddga.com/files/gs-24_usersmanual/responsive_html5/index.htm#t=GS-24_index.html){:target="_blank" .md-button}
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Vinyl Cutter Training](https://make.rit.edu/app/maker/training/17)
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/37/equipmentUserInfo/39){ .md-button }
 
-
-!!! note
-    As of Fall 2026, we have revamped the workflow for the Roland! Things are a lot easier now. If you used the machine in the past, make sure to re-familiarize yourself with what is new and different.
 
 ## Preparing Designs
 

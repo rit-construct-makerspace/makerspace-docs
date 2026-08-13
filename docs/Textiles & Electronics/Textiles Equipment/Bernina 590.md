@@ -27,9 +27,9 @@ Make sure to check out the Embroidery Software Page for more information on the 
 ---
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Bernina 590 Embroidery Training](https://make.rit.edu/app/maker/training/33)
-* [In-Person Competency Check](#in-person-competency-check)
+
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Warnings
 

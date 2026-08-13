@@ -6,9 +6,14 @@ The General Makerspace is located on the first floor of the SHED, and is home to
 
 ## Resources
 
+* 3D Printing
+    * [Self-Serve 3D Print Lab](./Self-Serve%203D%20Printing.md)
+    * [Bring-Your-Own-Filament 3D Printers](./BYOF%203D%20Printing.md)
 * [Epilog Laser Cutters](./Laser%20Cutting/Machines.md)
-* [Self-Serve 3D Print Lab](./Self-Serve%203D%20Printing.md)
-* [MatX: Materials Explorations Space](./Material%20Explorations.md)
-* [Maker Classroom Computer Lab]()
 * 3D Scanning (Coming Soon!)
 * Hand tools and power tools
+
+## Additional Spaces
+
+* [MatX: Materials Explorations Space](./Material%20Explorations.md)
+* [Maker Classroom Computer Lab](./Maker%20Classroom.md)

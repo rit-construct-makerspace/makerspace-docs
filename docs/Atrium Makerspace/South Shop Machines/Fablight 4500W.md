@@ -7,10 +7,9 @@ The machine always does rasterization first, then engraving, then cutting.
 
 ### Prerequisites for Use
 
-* [Preparing DXFs for Water Jet and Laser Cutting](https://make.rit.edu/app/maker/training/31){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Material Capabilities
 

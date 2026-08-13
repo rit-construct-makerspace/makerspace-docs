@@ -16,10 +16,9 @@ This makes it great for both beginners and experienced machinists — you can le
 
 ### Prerequisites for Use
 
-* [Manual Mill Safety Training](https://make.rit.edu/app/maker/training/9){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

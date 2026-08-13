@@ -7,10 +7,9 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
 *Note: “Miter” is the American spelling of the British English “Mitre”. Both terms are referring to the same thing and can be used interchangeably. FesTool is a European company, so it is more common to see “Mitre” in their documentation.
 
 ### Prerequisites for Use
-* [Miter Saw Safety Training](https://make.rit.edu/app/maker/training/22){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

@@ -7,10 +7,9 @@ The blade is continuously coated in lubricant to keep heat down and convey chips
 
 ### Prerequisites for Use
 
-* [Metal Stock Cutting Safety Training](https://make.rit.edu/app/maker/training/43){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/35){ .md-button }
+
 
 ## Safety Notices
 

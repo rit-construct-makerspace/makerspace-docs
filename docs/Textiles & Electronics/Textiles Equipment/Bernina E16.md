@@ -13,22 +13,9 @@ Prepare files for the E16 using Bernina Designer 9, more information can be foun
 <p class = "clear-float"></p>
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Bernina E16 Machine Training](https://make.rit.edu/app/maker/training/34)
-* [In-Person Competency Check](#in-person-competency-check)
 
-!!! note
-    The machine in the SHED is technically a Bernina E16 **PRO**. The only difference between the E16 and E16 Pro is the touchscreen interface. 
-    
-    Reference content for the normal E16 is still otherwise relevant, and is used on this page.
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
 
-<div class="grid" markdown>
-
-[Bernina E16 Pro User Manual](https://docs.melcocloud.com/resources/Storage/e16pro_user_manual.pdf){:target="_blank" .md-button}
-
-[Embroidery Software](../Textiles%20References/Embroidery%20Software.md){:target="_blank" .md-button}
-
-</div>
 
 ## Safety Warnings
 

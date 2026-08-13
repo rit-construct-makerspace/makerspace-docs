@@ -8,10 +8,9 @@ The table can be adjusted to drill holes in parts up to 40 inches tall.
 
 ### Prerequisites for Use
 
-* [Drill Press Safety Training](https://make.rit.edu/app/maker/training/8){target=_blank}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

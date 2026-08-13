@@ -12,10 +12,9 @@ This machine is a bit more complicated than the other lathes available, and ther
 
 ### Prerequisites for Use
 
-* [Manual Lathe Safety Training](https://make.rit.edu/app/maker/training/14){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/29){ .md-button }
+
 
 ## Safety Notices
 

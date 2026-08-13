@@ -15,9 +15,9 @@ There are 2 rotary grinders in the metal shop.
 There are 2 rotary grinders in the wood shop, both are sanding drums. Sanding drums are used to remove material from hard-to-reach areas of wood or plastic parts. When sanding plastic, watch for heat that may start to melt your part.
 
 ### Prerequisites for Use
-* [Rotary Grinding Tool Quiz](https://make.rit.edu/app/maker/training/77){target=_blank .md_button}
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

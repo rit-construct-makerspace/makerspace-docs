@@ -14,7 +14,7 @@ As this machine is a job shop machine, we charge $1 per minute of cut time to co
 
 Due to the advanced nature of this equipment, this machine is only run by Makerspace Staff. Therefore, you must prepare and submit your dxf file via [make@rit.edu](mailto:make@rit.edu), then drop off your material to be cut. We typically run the machine 1-2 times a week, so there may be a delay before we are able to get to your job.
 
-1. Prepare your model for cutting
+1. Prepare your model for cutting. Review the training found [here](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/18) to learn how to prepare files.
 2. Submit your clean vector file to [make@rit.edu](mailto:make@rit.edu) (.dxf from Fusion)
 3. Drop off your material
 4. We will inform you of the cost and if it is within budget, we will add your cut to the queue

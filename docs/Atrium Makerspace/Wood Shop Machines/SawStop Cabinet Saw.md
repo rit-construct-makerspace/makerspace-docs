@@ -9,10 +9,9 @@ Many people will use it for making items such as: birdhouses, cutting boards, ca
 The SawStop is equipped with a device that will interrupt the blade cycle to prevent injury. This can be triggered when cutting wet material, or if a metal object is hit (such as a nail). For that reason, we require material to be wanded with a metal detector prior to use. Green or wet wood should be moisture tested prior to using this equipment.
 
 ### Prerequisites for Use
-* [Tablesaw Safety Training](https://make.rit.edu/app/maker/training/19){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

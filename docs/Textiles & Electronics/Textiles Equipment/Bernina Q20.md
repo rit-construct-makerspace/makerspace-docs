@@ -9,14 +9,9 @@ The Bernina Q20 is a standing quilting machine. This is similar to a sewing mach
 [Q20 Manual](https://www.bernina.com/bernina/media/Support/Longarm_Quilting/Q_Series_Sit-Down_Models/Documents/EN/1048005_00A_04_web_manual_Q20_2020-11_EN.pdf){:target="_blank" .md-button}
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Bernina Q20 Long Arm Quilting Training](https://make.rit.edu/app/maker/training/42)
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/38/equipmentUserInfo/10){ .md-button }
 
-!!! danger
-    The table built into the Q20 is only meant to support your project. Do not lean, stand, or otherwise put a lot of weight on this surface!
 
 ## Safety Warnings
 

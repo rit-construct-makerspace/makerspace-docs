@@ -10,10 +10,9 @@ The band saw is driven by large wheels. Upon stopping the machine, a foot brake 
 
 ### Prerequisites for Use
 
-* [Band Saw Safety Training](https://make.rit.edu/app/maker/training/11){target="_blank"}
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+
 
 ## Safety Notices
 

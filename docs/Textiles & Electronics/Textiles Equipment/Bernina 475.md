@@ -9,11 +9,9 @@ The Bernina 475 is the main sewing machine used in the SHED. Whether you are loo
 [Bernina 475 Manual](https://www.bernina.com/bernina/media/Support/Sewing_Quilting_Embroidery/4_Serie/BERNINA_475QE/Documents/EN/1031755_00A_04_web_B475QE_GzD_EN.pdf){:target="_blank" .md-button}
 
 ### Prerequisites for Use
-* [Textiles Area Safety](https://make.rit.edu/app/maker/training/241)
-* [Bernina 475 Sewing Training](https://make.rit.edu/app/maker/training/28)
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/38/equipmentUserInfo/8){ .md-button }
+
 
 ## Safety Warnings
 
