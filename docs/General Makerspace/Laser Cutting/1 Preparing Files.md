@@ -1,53 +1,55 @@
-# Preparing Files
+# 1. Preparing Files
+
+This is page 1 of 3 in the series on how to use the Epilog lasers in the SHED makerspace.
 
 <div class="grid" markdown>
 
-[Using the Epilog Software](./Software.md){:target="_blank" .md-button}
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
 
-[Operating the Machines](./Operating.md){:target="_blank" .md-button}
+[Next: Using the Epilog Software](./2%20Software.md){:target="_blank" .md-button}
 
 </div>
 
-## Process Type: Raster
-Raster is one of two ways to run a laser cutter. 
+## Preface: Operation Type
 
-In rastering, the laser cutter moves side to side pulsing on and off to recreate depth or color. This slowly produces an image on the top of the material. 
+Before we get into designing our file, we need to understand the **two operating modes** of a laser cutter; rastering, and vectoring. This refers to how the laser processes our file and interprets it into motion of the laser. 
 
-Any file type the laser can process can be rastered, but higher resolution files with distinct colors will produce better results. 
+**Raster** operations are exclusively for engraving. The head of the laser moves side-to-side, turning on and off to emulate pixels. By using varying colors in our source file, we can vary how much the laser turns on, resulting in darker or lighter areas. Rasters can take a long time, since the laser has to move back-and-forth over the entire material thousands of times. 
 
-A resolution below 300DPI will have visible pixels in the final engraving. Above 500DPI gives the best results, but higher DPIs will result in a longer engrave time.
+When preparing for a raster, you can use any file type. But, try to shoot for a resolution of at least 300DPI. Any lower than that, and there will be visible pixels in the final engraving. 
 
-## Process Type: Vector
-Vector is one of two ways to run a laser cutter.
+**Vector** operations are primarily for cutting. When given a vector file, the laser can trace the outline, perfectly recreating the shape. When done at a high enough power this can cut through the material. You can also achieve fast engravings by running a vector operation at a lower power than cutting, although this can only engrave lines. 
 
-In vectoring, the laser will move in 2 axes following a line. This is a quick way to engrave thin lines, or you can increase the power and use it to cut out shapes.
+As the name implies, vector operations require a vector file (DXF, SVG, PDF, etc.) to work. 
 
-Vectoring can only be done on vector-based files, like an SVG or PDF.
-
-You can both raster and vector an object by embedding an image, for instance, into a vector PDF. As an example, you can engrave your name onto a part you are cutting out.
+!!! tip
+    You can embed an image in a vector file to both engrave and cut in one job!
 
 ## Preparing Files for Laser Cutting
 File preparation is one of the most important steps in laser cutting, specifically when it comes to vector-based files. 
+
+!!! info
+    The rest of this document covers sanitizing and configuring vector files to get the best laser cut. If you are just engraving an image, the image file is all you need.
 
 Here are the 5 most important things we are going to look out for in our vectors;
 
 ### Line Color
 Vector processes and orders can be set based on the color of the line. For example, I can tell the laser to cut through all red lines, but engrave all blue lines. I could also specify I want the green lines cut before the black lines.
 
-When setting line colors, it is best to use distinct, standard colors like Black, blue, red, green, yellow, etc., as opposed to R253 G103 B92. 
+When setting line colors, it is best to use distinct, standard colors like black, blue, red, green, yellow, etc., as opposed to R253 G103 B92. 
 
 ### Line Weight & Opacity
-It is important that the vector lines are all of a similar thinness, and have no transparency (100% opacity). If your software supports it, “Hairline” thickness is deal. Otherwise, 0.1mm is a standard thickness.
+It is important that the vector lines are all of a similar thinness, and have no transparency (100% opacity). If your software supports it, “Hairline” thickness is ideal. Otherwise, 0.1mm is a standard thickness.
 
 Making lines thicker does result in a thicker engraving if you raster, but vector cuts and engravings are always the same thickness and follow the center of the drawn line.
 
 ### Scale
-While most softwares are pretty consistent. there is no one standard for determining the scale of a vector file. What's worse, is that competing standards mean your file may only change by a small, unnoticeable value. 
+While most softwares are pretty consistent. there is no one standard for determining the scale of a vector file. What's worse, is that competing standards mean your file may only change by a small amount that is not noticeable until it is too late. 
 
 Therefore, it is recommended to draw a box of a known size around your file. Then, in the laser software, you can scale the entire design until the outer dimensions match. 
 
 ### Fill
-If vector lines form an enclosed area, you can fill that area with a set color. While this is fine for engraving, vector operations ignore fills. Fills can also make it hard to see hidden errors in vectors. It is recommended to keep fills turned off. 
+If vector lines form an enclosed area, you can fill that area with a set color. While this is fine for engraving, vector operations ignore fills. Fills can also make it hard to see hidden errors in vectors. It is recommended to keep fills turned off unless you intend to engrave them.
 
 ### Stacked Lines
 One of the most common failures we see with parts exported from CAD is that there are multiple copies of the part, stacked right on top of each other. The laser cutter is not smart enough to determine and ignore these, so it will result in the laser trying to cut your part multiple times, leading to poor finishes. 
@@ -130,3 +132,11 @@ When the actual part disappears (either eventually or immediately) hit the undo 
 
 ### Exporting File
 Once everything is set, we can export our file as an SVG by going to File, then Save As.
+
+<div class="grid" markdown>
+
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
+
+[Next: Using the Epilog Software](./2%20Software.md){:target="_blank" .md-button}
+
+</div> 
