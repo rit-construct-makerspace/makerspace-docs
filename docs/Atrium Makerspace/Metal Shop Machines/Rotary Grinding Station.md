@@ -16,7 +16,7 @@ There are 2 rotary grinders in the wood shop, both are sanding drums. Sanding dr
 
 ### Prerequisites for Use
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/71){ .md-button }
 
 
 ## Safety Notices

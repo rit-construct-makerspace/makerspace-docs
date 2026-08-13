@@ -10,7 +10,7 @@ The sandpaper on the drum sander can be changed out for different grits.
 ### Prerequisites for Use
 
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/532){ .md-button }
 
 
 ## Safety Notices

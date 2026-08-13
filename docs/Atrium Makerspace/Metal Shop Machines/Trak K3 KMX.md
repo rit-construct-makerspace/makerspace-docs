@@ -17,7 +17,7 @@ This makes it great for both beginners and experienced machinists — you can le
 ### Prerequisites for Use
 
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/24){ .md-button }
 
 
 ## Safety Notices

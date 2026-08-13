@@ -10,7 +10,7 @@ The sanding drum can be tilted up to 45 degrees to allow for chamfering / beveli
 ### Prerequisites for Use
 
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/21){ .md-button }
 
 
 ## Safety Notices

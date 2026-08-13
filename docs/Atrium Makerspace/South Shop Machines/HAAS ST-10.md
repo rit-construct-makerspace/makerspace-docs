@@ -8,7 +8,7 @@ This machine is great for turning of plastic, steels, and aluminum.
 
 This equipment can be reserved by appointment only.
 
-[SHED Makerspace Calendar](https://make.rit.edu/link/calendar){:target="_blank" .md-button}
+[View ST-10 Calendar](https://make.rit.edu/app/makerspace/36/reserve/16){:target="_blank" .md-button}
 
 <p class = "clear-float"></p>
 

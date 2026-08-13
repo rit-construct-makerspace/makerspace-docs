@@ -14,7 +14,7 @@ Prepare files for the E16 using Bernina Designer 9, more information can be foun
 
 ### Prerequisites for Use
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/38/equipmentUserInfo/11){ .md-button }
 
 
 ## Safety Warnings

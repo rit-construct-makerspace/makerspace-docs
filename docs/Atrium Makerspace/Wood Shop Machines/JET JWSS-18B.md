@@ -11,7 +11,7 @@ The scroll saw is operated via foot pedal to control speed of the blade.
 ### Prerequisites for Use
 
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/22){ .md-button }
 
 
 ## Safety Notices

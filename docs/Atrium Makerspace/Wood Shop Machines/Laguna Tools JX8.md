@@ -8,7 +8,7 @@ By adjusting the table height on the infeed, you feed the material over a cuttin
 
 ### Prerequisites for Use
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/14){ .md-button }
 
 
 ## Safety Notices

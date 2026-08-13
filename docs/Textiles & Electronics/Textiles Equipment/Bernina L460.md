@@ -10,7 +10,7 @@ The Bernina L460 is a Serger (aka Overlocker depending on the country). Sergers 
 
 ### Prerequisites for Use
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/38/equipmentUserInfo/12){ .md-button }
 
 
 ## Safety Warnings

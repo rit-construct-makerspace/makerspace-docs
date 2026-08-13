@@ -15,7 +15,7 @@ The tools for operation the machine are located underneath in an orange bracket.
 
 ### Prerequisites for Use
 
-[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/){ .md-button }
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/7){ .md-button }
 
 
 ## Safety Notices
