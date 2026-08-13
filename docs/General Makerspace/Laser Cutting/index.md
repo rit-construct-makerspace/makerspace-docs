@@ -35,11 +35,11 @@ Epilog laser cutters are very easy to use. To learn step-by-step how to use the 
 
 <div class="grid" markdown>
 
-[Preparing Laser Files](./1%20Preparing%20Files.md){target="blank" .md-button}
+[1. Preparing Laser Files](./1%20Preparing%20Files.md){target="blank" .md-button}
 
-[Using the Epilog Software](./2%20Software.md){:target="_blank" .md-button}
+[2. Using the Epilog Software](./2%20Software.md){:target="_blank" .md-button}
 
-[Operating the Epilog Laser](./3%20Operating.md){:target="_blank" .md-button}
+[3. Operating the Epilog Laser](./3%20Operating.md){:target="_blank" .md-button}
 
 </div>
 
