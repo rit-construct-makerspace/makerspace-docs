@@ -1,7 +1,5 @@
 # EHS Safety Trainings 
 
-(Updated January 2026)
-
 ## Shop Safety Training
 
 All RIT students, faculty, and staff are mandated by the RIT office of Environmental Health and Safety to complete a Shop Safety Training before accessing any resources in the makerspace. As of January 2026, these trainings have been split across 2 platforms; MyCourses for students, and Workday for faculty and staff. 
