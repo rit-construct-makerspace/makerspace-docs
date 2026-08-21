@@ -116,7 +116,9 @@ Multiple stitches can be combined to make a custom pattern. For instance, combin
 
 ## In-Person Competency Check
 
-To demonstrate competency on the Bernina 475, makers will be asked to demonstrate the following;
+Once all trainings are complete, makers can come in whenever the space is open for their in-person check.
+
+Staff will review the operation of the equipment with you, and go over the following;
 
 * Wind a bottom bobbin using the bobbin winder
 * Install, thread the bottom bobbin in the machine
