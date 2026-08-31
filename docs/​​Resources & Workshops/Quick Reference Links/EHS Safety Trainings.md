@@ -6,9 +6,6 @@ All RIT students, faculty, and staff are mandated by the RIT office of Environme
 
 Please click the proper link below to access the Shop Safety Training;
 
-**NOTICE: EHS Trainings for the 2026-2027 school year are not yet available. You can skip these for now, an announcement will be made when the trainings are available on make.rit.edu.**
-
-<!---
 <div class="grid" markdown>
 
 [STUDENTS Shop Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1177155){:target="_blank" .md-button}
@@ -16,7 +13,6 @@ Please click the proper link below to access the Shop Safety Training;
 [FACULTY/STAFF Shop Safety](https://wd12.myworkday.com/rit/learning/course/0ec32ce7cb31100004b162a5f3360000){:target="_blank" .md-button}
 
 </div>
---->
 
 ## Laser Safety Training
 
@@ -26,7 +22,6 @@ Please click the proper link below to access the Laser Safety Training;
 
 **NOTICE: EHS Trainings for the 2026-2027 school year are not yet available. You can skip these for now, an announcement will be made when the trainings are available on make.rit.edu.**
 
-<!---
 <div class="grid" markdown>
 
 [STUDENTS Laser Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1209661){:target="_blank" .md-button}
@@ -34,4 +29,3 @@ Please click the proper link below to access the Laser Safety Training;
 [FACULTY/STAFF Laser Safety](https://wd12.myworkday.com/rit/email-universal/inst/17816$67/rel-task/2998$29489.htmld){:target="_blank" .md-button}
 
 </div>
---->
