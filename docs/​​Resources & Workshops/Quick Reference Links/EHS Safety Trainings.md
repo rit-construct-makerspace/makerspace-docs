@@ -10,7 +10,7 @@ Please click the proper link below to access the Shop Safety Training;
 
 [STUDENTS Shop Safety](https://mycourses.rit.edu/d2l/le/discovery/view/course/1177155){:target="_blank" .md-button}
 
-[FACULTY/STAFF Shop Safety](https://wd12.myworkday.com/rit/learning/course/0ec32ce7cb31100004b162a5f3360000){:target="_blank" .md-button}
+[FACULTY/STAFF Shop Safety](https://wd12.myworkday.com/rit/learning/course/bd79d71a507f1000d7b77ba472330000){:target="_blank" .md-button}
 
 </div>
 
