@@ -34,7 +34,7 @@ The miter* saw is used for cutting longer material, such as 2x4 posts, at compou
 
     Sharp blade moving quickly, stay clear!
 
-    Keep hands at least 12" from blade at all times
+    Keep hands at least 4" from blade at all times
 
     Use proper clamping to keep material from shifting
 
