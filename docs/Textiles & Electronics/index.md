@@ -29,9 +29,6 @@ In order to assist with projects, we try to stock a number of free basic electri
 
 ## Textiles Resources
 
-!!! note
-    To use the Textiles resources, you must first complete the [Textiles Area Training](https://make.rit.edu/app/maker/training/241)
-
 * [Sewing Machine - Bernina 475](./Textiles%20Equipment/Bernina%20475.md)
 * [Embroidery Machine - Bernina 590](./Textiles%20Equipment/Bernina%20590.md)
 * [Production Embroidery Machine - Bernina E16](./Textiles%20Equipment/Bernina%20E16.md)
