@@ -42,17 +42,19 @@ All other project classifications are not permitted in the makerspace. This incl
 
 Further restrictions on specific project types beyond the [Permitted Project Classifications](#permitted-project-classifications) are as follows;
 
-* **Illegal Projects**: Projects can not relate to an object, action, service, or similar that is illegal in any jurisdiction relevant to the maker, the makerspace, or RIT. This includes, but is not limited to, local, state, and federal law.
+* **Weapons, Firearms, and Dangerous Instruments**: Weapons, Firearms, and Dangerous Instruments, henceforth referred to as "weapons", as defined by [RIT Policy C17.0](https://www.rit.edu/policies/c170), are not permitted in any capacity in the makerspace. This includes, but is not limited to, the design and/or fabrication of such objects, precursors to such objects, or accessories and/or add-ons to such objects, functional or otherwise. This restriction also extends to depictions, representations, models and/or other non-functional or limited-functionality objects intended to resemble or mimic a weapon, firearm, or dangerous instrument that may be interpreted as or mistaken for a weapon, firearm, or dangerous instrument. These restrictions extend to air-guns, spring-guns or other instrument or weapons in which the propelling force is a spring, air, piston or CO2 cartridges, such as paintball markers, BB guns, or airsoft launchers. Exceptions to this policy are only made for RIT-sanctioned research work, and must be approved in advance by the makerspace director.
 
-* **Weapons, Firearms, and Dangerous Instruments**: Such objects, as defined by RIT Policy C17.0, accessible [here](https://www.rit.edu/policies/c170), cannot be worked on in the makerspace. This includes, but is not limited to, the design and/or fabrication of such objects, precursors to such objects, or accessories and/or add-ons to such objects, functional or otherwise. This restriction also extends to depictions, representations, models and/or other non-functional or limited-functionality objects intended to resemble or mimic a weapon, firearm, or dangerous instrument that may be interpreted as or mistaken for a weapon, firearm, or dangerous instrument. Depictions, representations, or models of weapons, firearms, or dangerous instruments can be worked on under one of the following conditions;
-    * The part is a non-functional, non-moving, representation with no sharp edges, completely manunufactured in a bright orange or comparable high-visiblity material, and is not painted or otherwise obscured in any other way.
-    * The part is requested in writing by the director, PI, research coordinator, or similar responsible faculty or staff RIT representative with a justification as to the need for this part to be worked on in the makerspace.
+* **Toy Weapon Depictions**: Such objects includes but is not limited to NERF or similar foam dart blasters, non-lethal projectile launchers, or non-functional prop weapon depictions **not** meant to represent an actual weapon, firearm, or dangerous instrument. These are henceforth referred to as "toy weapons." Toy weapons are only permitted if they are manufactured fully in a material color stated by New York General Business Law §871(link), which specifies "white, bright red, bright orange, bright yellow, bright green, bright blue, bright pink, bright purple, or completely transparent/translucent."
+
+* **Illegal Projects**: Projects can not relate to an object, action, service, or similar that is illegal in any jurisdiction relevant to the maker, the makerspace, or RIT. This includes, but is not limited to, local, state, and federal law.
 
 * **Violation of RIT Policy**: Any project that results in violation of RIT Policy, either in the process of working on the project or with the end-result of the project, is not permitted.
 
 * **Projects Forbidden by Staff**: The staff of the makerspace, at their discretion, may forbid any project from the makerspace for any reason that is not in violation of RIT Policy.
 
 If found in the makerspace, such restricted project types may be confiscated at the discretion of makerspace staff.
+
+Violation of makerspace policies related to weapons or toy weapons violate [RIT Policy D18.0, IV - Student Code of Conduct, Section O](https://www.rit.edu/policies/d180)). Any suspected violations related to weapons or toy weapons will be referred to both RIT's Office of Public Safety and the RIT Center for Student Conduct and Conflict Resolution for review.
 
 ## Intellectual Property & Sensitive Data
 
