@@ -10,4 +10,4 @@ All RIT students, faculty, and staff are mandated by the RIT office of Environme
 
 ## Access Trainings
 
-EHS trainings can be found at the EHS website, at https://www.rit.edu/ehs/trainings
+EHS trainings can be found at the EHS website, at [https://www.rit.edu/ehs/trainings](https://www.rit.edu/ehs/trainings)
