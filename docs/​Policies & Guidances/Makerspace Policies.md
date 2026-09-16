@@ -91,6 +91,7 @@ Policies regarding dress standards are superseded by [Personal Protective Equipm
 ## Headphones and Earbuds
 
 Headphones, earbuds, and similar personal audio-playing devices can be worn by makers when working in the makerspace, with the following restrictions:
+
 * Such audio-playing devices cannot be worn on top of, underneath, or in lieu of hearing protection where required.
 * For in-, on-, or over-ear devices, one ear must remain unobstructed to hear the surroundings.
     * This does not apply to bone conduction and similar technologies that do not play audible sound.
