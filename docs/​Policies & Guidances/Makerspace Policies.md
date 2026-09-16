@@ -86,6 +86,15 @@ While in any makerspace, no person may add, remove, or otherwise change the clot
 
 Policies regarding dress standards are superseded by [Personal Protective Equipment](#personal-protective-equipment) requirements where necessary and applicable for compliance with safety mandates.
 
+## Headphones and Earbuds
+
+Headphones, earbuds, and similar personal audio-playing devices can be worn by makers when working in the makerspace, with the following restrictions:
+* Such audio-playing devices cannot be worn on top of, underneath, or in lieu of hearing protection where required.
+* For in-, on-, or over-ear devices, one ear must remain unobstructed to hear the surroundings.
+    * This does not apply to bone conduction and similar technologies that do not play audible sound.
+* Wired devices cannot be worn around equipment with spinning or moving elements.
+* Wearing of such devices cannot interfere with the proper use of required PPE.
+
 ## Personal Protective Equipment
 
 It is the responsibility of makers to understand the required Personal Protective Equipment (PPE) for operating or being within proximity of a tool, space, piece of equipment, or similar. Any such PPE required is provided at no expense by the makerspace to all makers. Re-usable PPE, such as glasses and helmets, are provided in spaces and areas where they are required. Such PPE is expected to be returned in a clean and functional state upon exiting that space or area.
