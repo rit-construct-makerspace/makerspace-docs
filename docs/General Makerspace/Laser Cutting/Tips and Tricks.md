@@ -2,6 +2,18 @@
 
 Want to level up your laser cutting? Here are some tips and tricks! 
 
+## General
+
+### Centering Point Mode
+
+By default, we use the camera for aligning a cut/engrave on the material, but there is another option better for more precise alignment; Centering Point Mode. 
+
+To enable Centering Point Mode, in the Epilog Dashboard hit "Advanced" at the top, then select a "Centering Point" ("None" is the default, and is used to turn off Centering Point Mode).
+
+Once a Centering Point is selected, the camera view is disabled, and you will see a red mark on your design in the chosen Centering Point location. This is now the datum of your design, which will be used for alignment. Choose one that is easy/obvious to find in your material. 
+
+Now, on the laser cutter, you can use the Jog menu to go to a set location, then hit the "Center Point" button on the right (or type in exact X/Y coordinates) to set the corresponding point on your material. Now when the cut begins, the laser will perfectly align the Centering Point in your file to the programmed Center Point!
+
 ## Engraving
 
 ### Precision Sync
