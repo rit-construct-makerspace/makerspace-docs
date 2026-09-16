@@ -12,13 +12,15 @@ Time must be scheduled for use to avoid conflicts between other users, outside o
 
 You can reserve the paint booth via [this calendar link](https://make.rit.edu/app/makerspace/36/reserve/41). 
 
+Before using the paint booth, make sure to complete required trainings [found here](https://make.rit.edu/app/makerspace/36/equipmentUserInfo/41).
+
 <p class = "clear-float"></p>
 
 ---
 
 <div class="grid" markdown>
 
-[SHED Makerspace Calendar](https://make.rit.edu/link/calendar){:target="_blank" .md-button}
+[Paint Booth Calendar](https://make.rit.edu/app/makerspace/36/reserve/41){:target="_blank" .md-button}
 
 [RIT Voluntary Use Form](https://www.rit.edu/ehs/sites/rit.edu.ehs/files/documents/Information%20for%20Employees%20Using%20Respirators%20Form-Voluntary%20Use%20Form%20-%20editable.pdf){:target="_blank" .md-button}
 

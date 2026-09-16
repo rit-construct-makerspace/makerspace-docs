@@ -13,14 +13,9 @@ While soldering as a technique can be used for other applications (like jewelry 
 [Weller 1010 Manual](https://www.weller-tools.com/sites/default/files/products/documents/WEL_WE1_Manual_T0055745804_web.pdf){:target="_blank" .md-button}
 
 ### Prerequisites for Use
-* [SHED Soldering Training](https://make.rit.edu/app/maker/training/27)
-* [In-Person Competency Check](#in-person-competency-check)
 
-<p class = "clear-float"></p>
+[Click here to view training requirements and progress (make.rit.edu)](https://make.rit.edu/app/makerspace/38/equipmentUserInfo/33){ .md-button }
 
----
-
-<img src="../assets/heat hazard.webp" class="image-float-left" width=40%>
 
 ## Safety Warnings
 * Only solder under an active and running fume extractor.

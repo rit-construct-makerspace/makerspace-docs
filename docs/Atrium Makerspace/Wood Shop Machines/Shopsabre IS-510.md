@@ -6,9 +6,9 @@ The ShopSabre IS-510 is a large format CNC router. This machine takes in gcode f
 
 The bed of the machine can handle 5ft x 10ft material sheets, and has a vacuum system for holding down material.
 
-This equipment can be reserved by appointment only.
+This equipment can be reserved by appointment only. Email us at make@rit.edu to schedule.
 
-[SHED Makerspace Calendar](https://make.rit.edu/link/calendar){:target="_blank" .md-button}
+[View the ShopSabre Calendar Here](https://make.rit.edu/app/makerspace/36/reserve/15){:target="_blank" .md-button}
 
 <p class = "clear-float"></p>
 

@@ -1,14 +1,18 @@
-# Operating the Epilog Laser
+# 3. Operating the Laser
+
+This is page 3 of 3 in the series on how to use the Epilog lasers in the SHED makerspace.
 
 <div class="grid" markdown>
 
-[Preparing the Files](./Preparing%20Files.md){target="blank" .md-button}
+[Previous: Laser Software](./2%20Software.md){target="blank" .md-button}
 
-[Using the Epilog Software](./Software.md){:target="_blank" .md-button}
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
+
+[Advanced Laser Tips & Tricks](./Tips%20and%20Tricks.md){:target="_blank" .md-button}
 
 </div>
 
-This page will walk you through preparing the laser cutter to execute a cut. By now, you should have prepared and printed your file from the computer. See the training linked above for more details on this.
+This page will walk you through preparing the laser cutter to execute a cut. By now, you should have prepared and printed your file from the computer. See the pages linked above for more details on this.
 
 ## Epilog Laser Interface Guide
 <img src="..\assets\operating\interface.webp" class="image-float-right" width=40%>
@@ -18,8 +22,7 @@ All Epilog lasers use the same touchscreen interface, found on the right side of
 The top and bottom navigation guides are always present. On the top, from left to right, is;
 
 * File List: Here files sent from the computer are stored and can be selected.
-Delete File: Deletes currently selected file.
-
+* Delete File: Deletes currently selected file.
 * Settings: Internal machine settings, can be ignored.
 
 Along the bottom, the buttons are;
@@ -34,7 +37,7 @@ Along the bottom, the buttons are;
 
 * Jog Axes: Allows you to move the X/Y axes of the machines
 
-* Trace: Quickly drive the head of the machine around the perimeter of the job. When paired with the laser, you can use this to check if your project fits on the material.
+* Trace: Quickly drive the head of the machine around the perimeter of the job. When paired with the laser pointer, you can use this to check if your project fits on the material.
 
 <p class = "clear-float"></p>
 
@@ -55,16 +58,17 @@ The “Park Axis” button returns the axes to the park position, usually the to
 
 The “Auto Focus” button moves the head down in its current position to find the material. 
 
-**This feature is not available on the Fusion Pro machine, even though the button is there!**
+!!! warning
+    **The auto-focus feature is not available on the Fusion Pro machine, even though the button is there!**
 
-For setting the focus on the Fusion Pro, set the mode to thickness and input the measured [material thickness](https://docs.make.rit.edu/General%20Makerspace/Laser%20Cutting/Software/#auto-focus).
+    For setting the focus on the Fusion Pro, set the mode to thickness and input the measured [material thickness](./2%20Software.md#auto-focus).
  
 <p class = "clear-float"></p>
 
 ## File List
 <img src="..\assets\operating\file_list.webp" class="image-float-left" width=30%>
 
-The File List shows all files sent from the computer, newest at the top. Files are automatically deleted once cut, and/or when the machine is restarted.
+The File List shows all files sent from the computer, newest at the top. Files are automatically deleted when the machine restarts.
 
 To select a file, simply click on it. The selected file will turn blue. To start the job, press the glowing play/pause button to the left of the joystick to immediately begin.
 
@@ -158,3 +162,13 @@ DO NOT turn off the laser cutter or press the emergency stop in the event of a s
 IMMEDIATELY notify staff of a sustained fire. Keep the machine closed.
 
 The laser cutters are designed to contain and safely smother small fires. Opening the lid will expose more oxygen and may increase flames.
+
+<div class="grid" markdown>
+
+[Previous: Laser Software](./2%20Software.mdd){target="blank" .md-button}
+
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
+
+[Advanced Laser Tips & Tricks](./Tips%20and%20Tricks.md){:target="_blank" .md-button}
+
+</div>

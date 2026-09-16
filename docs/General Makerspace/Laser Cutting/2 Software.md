@@ -1,18 +1,23 @@
-# Epilog Software
+# 2. Epilog Software
+
+This is page 2 of 3 in the series on how to use the Epilog lasers in the SHED makerspace.
 
 <div class="grid" markdown>
 
-[Preparing the Files](./Preparing%20Files.md){target="blank" .md-button}
+[Previous: Preparing Laser Files](./1%20Preparing%20Files.md){target="blank" .md-button}
 
-[Operating the Machines](./Operating.md){:target="_blank" .md-button}
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
+
+[Next: Operating the Machine](./3%20Operating.md){:target="_blank" .md-button}
 
 </div>
 
-This training goes over Epilog Dashboard, the software we use to run the laser cutters in the SHED. 
+This training goes over Epilog Dashboard, the software we use to run the laser cutters in the SHED. Before continuing, your file should be cleaned and ready to cut. 
 
-This software is available on the computer attached next to each laser. These are public computers, if they are logged out, use the password “SHEDLaser” to unlock them. You will have to insert your ID into the ACS to unlock the keyboard and mouse before use. 
+This software is installed on shared computers in the General Makerspace, next to each laser cutter. You will have to use your RIT ID to unlock the computer to access the software.
 
-Before continuing, your file should be cleaned and ready to cut. See the training below if you need help with this;
+!!! warning
+    The computers that run the laser cutters are shared computers that are regularly wiped. Do not store files on these computers! If you log into an account, make sure to **log out** when done so others cannot access it.
 
 ## Sending Files to Epilog Dashboard
 <img src="..\assets\software\sending.webp" class="image-float-left" width=50%>
@@ -31,7 +36,7 @@ In the print dialog, make sure that the settings are exactly as follows;
 
 * Layout: Landscape
 
-* Paper Size: PostScript Custom Page Size
+* Paper Size: PostScript Custom Page Size (may be labeled **Engraver** on some computers) 
 
 * Scale: Actual Size
 
@@ -45,7 +50,8 @@ You can position your file by clicking and dragging it. If you want to only cut 
 
 You can also delete or move independent parts of your file by ungrouping it. To do this, right-click and “Ungroup” to split the file.
 
-**NOTE**: Camera position is accurate to within ¼" when the material is focused, and the accuracy changes as you get farther from the camera in the center of the bed.
+!!! warning
+    The camera is only accurate to about 6mm or 1/4 inch, and only when the material has been properly focused. Do not rely on the camera for very precise alignment. We'll cover how to check alignment perfectly in the next section of the guide. 
 
 <p class = "clear-float"></p>
 
@@ -72,33 +78,38 @@ On the left side of the screen is where most file manipulation tools are. These 
 
 <p class = "clear-float"></p>
 
-## Auto Focus
+## Right Menu: Job Setup
+
+The right side of the screen contains the settings related to how the laser will interpret your file. 
+
+### Auto Focus
 <img src="..\assets\software\process_2.webp" class="image-float-right" width=25%>
 <img src="..\assets\software\process_1.webp" class="image-float-right" width=25%>
-At the top is the “Auto Focus” menu. This has 3 options;
+
+For the laser to cut properly, it has to focus on the material. To make this easier, the Epilog machines have an auto-focus tool. We'll go over how to use it more in the next section. When preparing the file, though, we can configure it to automatically focus for us. You can set the "Auto Focus" option to one of the following; 
 
 * Off: The machine assumes it is already focused. Use this if you manually or automatically focused on the material already. This is the recommended setting for Fusion Edge machines. 
 
-* Plunger: The machine will auto-focus on the material before it starts cutting. The machine guesses where it is OK to focus.
+* Plunger: The machine will auto-focus on the material before it starts cutting. The machine guesses where it is OK to focus. **This is the suggested setting for most users.**
 
 * Thickness: The machine automatically focuses based on the thickness of the material set in the processes. Recommended for Fusion Pro machine. Make sure you set the thickness on all processes!
 
-## Laser Processes
+### Laser Processes
 In the “Processes” section, we can see what the laser cutter is going to do, and with what settings. The order that items are listed in this menu are the order the laser will execute them. For instance, if we want the laser to engrave our design before cutting it out, we need to drag and arrange the engraving above the cutting.
 
-By default, everything is grouped into a process called “Everything”. For jobs that have multiple settings (e.g. a cut and an engrave), we want to split this. Click the “Split by Color” button to split it into vectors and rasters, as well as by color. This will create a process named for each item.
+By default, everything is grouped into a process called “Everything”. For jobs that have multiple settings (e.g. a cut and an engrave), we want to split this. Click the “Split by Color” button to split it into vectors and rasters, as well as by color. This will create a process named for each item based on either the color, or the type (image).
 
-If you want to combine multiple processes (e.g. engrave vector text and an image at the same time), you can select “Merge” on one of the processes and choose the other one to merge it with.
+If you want to combine multiple processes (e.g. engrave vector text and an image at the same time), you can select “Merge with...” on one of the processes and choose the other one to merge it with.
 
 <p class = "clear-float"></p>
 
-## Laser Process Settings
+### Laser Process Settings
 <img src="..\assets\software\import_2.webp" class="image-float-right" width=25%>
 <img src="..\assets\software\import_1.webp" class="image-float-right" width=25%>
 
 Once we have split, merged, and arranged the processes how we like, we can apply settings to them. Settings are already developed for many common materials, these can be imported by pressing the “Import Settings” icon in the top right corner.
 
-The laser settings are split into 2 tabs; engrave (raster) and vector. Each of these tabs are then grouped by material. Select the settings you want, and click “Import” at the bottom to apply them. You will know it succeeded if the name of the process changes to the settings name.
+The laser settings are split into 2 tabs; engrave (raster) and vector. Each of these tabs are then grouped by material. Select the settings you want, and click “Import” at the bottom to apply them. You will know it succeeded if the name of the process changes to the settings name (i.e. instead of being called "Red" it is called "Cutting 1/8").
 
 Once you import settings, you can edit them. For instance, turning down the DPI will result in a faster engraving, or turning up the power & down the speed will make the engraving deeper. It is generally recommended to leave cut settings as-is. 
 
@@ -108,6 +119,14 @@ If you do not find settings for your material, ask staff for help developing set
 
 <p class = "clear-float"></p>
 
-
-
 Once all the above steps are complete, you can hit the “Print” button at the bottom to send the file to the laser cutter. 
+
+<div class="grid" markdown>
+
+[Previous: Preparing Laser Files](./1%20Preparing%20Files.md){target="blank" .md-button}
+
+[Return to Laser Overview](./index.md){:target="_blank" .md-button}
+
+[Next: Operating the Machine](./3%20Operating.md){:target="_blank" .md-button}
+
+</div>

@@ -1,12 +1,12 @@
 # Self-Serve 3D Printers
 
-<img src="..\assets\core one hero.jpg" class="image-float-right" width=40%>
+<img src="../coreone.jpg" class="image-float-right" width=40%>
 
 The General Makerspace is home to the SHED's main print farm. Students, faculty, and staff can use these 3D printers for personal, club, academic, research, and entrepreneurial projects. These printers can print in single-color PLA, a corn-based bioplastic. 
 
 Makers can choose from one of the standard colors loaded in the farm when submitting their prints. These generally include orange, black, white, grey, and seasonal rotating colors such as green, yellow, red, blue, and pink.
 
-To access the Self-Serve 3D Printers, complete the [Self-Serve 3D Printing Training](https://make.rit.edu/app/maker/training/13).
+To access the Self-Serve 3D Printers, complete the [Self-Serve 3D Printing Training](https://make.rit.edu/app/makerspace/37/equipmentUserInfo/37).
 
 !!! info
     As of Fall 2025, a few PETG printers are available. PETG is a stronger, more flexible plastic that is traditionally used to make water bottles and similar. PETG is generally available in white, black, and translucent.
