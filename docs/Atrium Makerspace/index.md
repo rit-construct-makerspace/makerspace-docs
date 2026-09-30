@@ -42,6 +42,7 @@ The following equipment can be found in the Atrium Makerspace:
 * [Rotary Tool Sanding Station](./Wood%20Shop%20Machines/Rotary%20Sanding%20Station.md)
 * [Table Saw - SawStop Cabinet Saw](./Wood%20Shop%20Machines/SawStop%20Cabinet%20Saw.md)
 * [Router Table - SawStop Router](./Wood%20Shop%20Machines/SawStop%20Router%20Table.md)
+* [Wood Lathe - Laguna Tools 12|16](./Wood%20Shop%20Machines/Laguna%20Tools%201216.md)
 * DeWalt Power Tools - Drill, Saw, Nailer, Palm Sander, etc.
 * Hand Tools - Saws, files, sandpaper, hammers, etc.
 * Measurement Tools - Chalk line, tape measure, spirit level, etc.
